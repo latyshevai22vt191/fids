@@ -1,1190 +1,1014 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2023-07-04 16:58">
+<yml_catalog date="2023-07-07 9:44">
 	<shop>
 		<name>drevodesign</name>
-		<company>Древо дизайн</company>
+		<company>drevodesign.ru</company>
 		<url>https://drevodesign.ru/</url>
 		<currencies>
 			<currency id="RUB" rate="1" />
 		</currencies>
-		<categories />
 		<categories>
-			<category id="1">Кровати</category>
-			<category id="2">Ванная комната</category>
+			<category id="1">Столовая</category>
+			<category id="2">Спальня</category>
 			<category id="3">Столы/Журнальные столы</category>
-			<category id="4">Столешницы/Готовые столешницы</category>
-			<category id="5">Столы/Обеденные столы</category>
-			<category id="6">Столы/Письменные столы</category>
-			<category id="7">Барные стойки</category>
-			<category id="8">Гостиная</category>
-			<category id="9">Спальня</category>
-			<category id="10">Стулья</category>
-			<category id="11">Мебель для кафе, баров</category>
-			<category id="12">Зеркала и предметы декора</category>
-			<category id="13">Столовая</category>
-			<category id="14">Двери в стиле лофт</category>
-			<category id="15">Столешницы/Столешницы для ванной</category>
-			<category id="16">Тумбы, комоды, консоли</category>
-			<category id="17">Кабинет</category>
+			<category id="4">Зеркала и предметы декора</category>
+			<category id="5">Мебель для кафе, баров</category>
+			<category id="6">Гостиная</category>
+			<category id="7">Тумбы, комоды, консоли</category>
+			<category id="8">Стулья</category>
+			<category id="9">Столы/Обеденные столы</category>
+			<category id="10">Двери в стиле лофт</category>
+			<category id="11">Кабинет</category>
+			<category id="12">Столы/Письменные столы</category>
+			<category id="13">Кровати</category>
+			<category id="14">Столешницы/Готовые столешницы</category>
+			<category id="15">Барные стойки</category>
+			<category id="16">Ванная комната</category>
+			<category id="17">Столешницы/Столешницы для ванной</category>
 		</categories>
 		<offers>
-			<offer id="0823" available="true">
-				<name>Письменный стол из массива карагача</name>
-				<categoryId>6</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/77d/244_244_0/hs4g84zurzpgji6u40x6lezzwu6zadll.png</picture>
-				<price>75 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Дизайнерский письменный стол из массива карагача с заливкой эпоксидной смолы. Деревянная ножка с переходящим рисунком древесины. Отличное решение для вашего кабинета.</description>
-			</offer>
-			<offer id="0825" available="true">
-				<name>Письменный стол из массива</name>
-				<categoryId>6</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/520/244_244_0/8trli1th22yupz12rbh77s6zjrxfv7n1.png</picture>
-				<price>78 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Письменный стол выполнен из массива горного вяза. Темные заливки эпоксидной смолой на фоне светлой древесины придают изделию неповторимую оригинальность, от которой вы получите настоящее наслаждение. Возможно изготовление по индивидуальным размерам. Тонировка древесины, как и цвет смолы, могут быть различными.</description>
-			</offer>
-			<offer id="0816" available="true">
-				<name>Авторский письменный стол из ореха</name>
-				<categoryId>17</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/fd4/244_244_0/azusjllps52wf5t5x07dvy6yk3ihi3nv.png</picture>
-				<price>93 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Авторский письменный стол с выдвижным ящиком на магнитном механизме. Стол красив и эстетичен, подойдет для тех, кто уважает своё рабочее пространство. За таким столом приятно сидеть и удобно работать, он впишется в современный интерьер и будет не только мебелью, но и практичным инструментом.</description>
-			</offer>
-			<offer id="0827" available="true">
-				<name>Письменный стол из массива горного вяза</name>
-				<categoryId>6</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/7b8/244_244_0/9hhl8x77gg8lj9zchpvk53300nk0k8bf.png</picture>
-				<price>52 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>При изготовлении стола использовался цельный слэб карагача. Все трещины и природные неровности пролиты прозрачной эпоксидной смолой, поверхность столешницы идеально отшлифована и отполирована.</description>
-			</offer>
-			<offer id="0829" available="true">
-				<name>Письменный стол "Bean"</name>
-				<categoryId>6</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/3e9/244_244_0/zo5pskx2b98y6nfhf26wx5fkmxpixhxi.png</picture>
-				<price>70 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Современный, легкий и эстетичный письменный стол от наших мастеров "Bean". Столешница данного изделия выполнена из массива горного вяза/карагача, идеально отшлифована и отполирована. Все трещинки и природные неровности пролиты эпоксидной смолой для создания идеально гладкой поверхности. Финишное покрытие исполнено водным лаком для жесткости покрытия. Тонировка производилась экологически чистыми немецкими маслами. Толщина столешницы составляет около 40 мм. Опора металлическая, высота готового изделия составляет 765 мм.</description>
-			</offer>
-			<offer id="0830" available="true">
-				<name>Письменный стол "Black Bean"</name>
-				<categoryId>6</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/eb7/244_244_0/p7226ez08ar9w2697klw0fvbru1cwsqu.png</picture>
-				<price>70 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Еще одна эксклюзивная работа от наших мастеров, письменный стол "Black Bean". Столешница выполнена из массива черного дерева (американский орех), все природные неровности на поверхности столешницы пролиты эпоксидной смолой для создания идеально гладкой плоскости. Перед тем как нанести финишный слой водного лака для прочности покрытия, столешница прошла несколько стадий ручной шлифовки. Времяпрепровождение за таким объектом сделает работу в радость! Толщина столешницы составляет около 40 мм. Опора металлическая. Высота готового изделия 765 мм.</description>
-			</offer>
-			<offer id="0833" available="true">
-				<name>Письменный стол "Simple"</name>
-				<categoryId>6</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/aec/244_244_0/y5q3qfuxwp17120t0glwr93q2r1vfkxc.png</picture>
-				<price>63 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Казалось бы, все просто, всего на всего деревянная доска, но как она роскошно смотрится в законченном виде. Красота в простоте! За основу изделия взят слэб массива карагача, который прошел несколько этапов фрезеровки, ручной шлифовки и полировки. Все природные неровности и сучки пролиты эпоксидной смолой для получения идеально ровной поверхности, которая готова дарить вам теплые эмоции при прикосновениях и делать ваш рабочий процесс более приятным. Основание сделано из металла и окрашено в черный цвет. Возможно изготовление под заказ по всем индивидуальным пожеланиям.</description>
-			</offer>
-			<offer id="0822" available="true">
-				<name>Письменный стол эксклюзивной серии</name>
-				<categoryId>17</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f86/244_244_0/8cn4066ttmh8rgh2nta2nlr3u24se1ei.png</picture>
-				<price>145 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Стол из слэба карагача в обрамлении черной эпоксидной смолой в минималистическом стиле будет настоящей изюминкой вашего кабинета. С двумя ящиками, система открывания Tip-on. Высота стола 75 см. Толщина столешницы 40 мм.</description>
-			</offer>
-			<offer id="0835" available="true">
-				<name>Письменный стол из массива карагача</name>
-				<categoryId>6</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/b9e/244_244_0/9zg9hanw5i8jg4l2pjqkjy4b0wc6p593.png</picture>
-				<price>105 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Очередной великолепный и стильный письменный стол от нашей команды мастеров. Изделие полностью изготовленно из массива карагача (горный вяз). За основу мы взяли две заготовки которые прекрасно сочетаются друг с другом и обладают очень красивым древесным рисунком. Стол оборудован двумя выдвижными ящиками для удобства работы, фасады которых украшены вырезанным рисунком. Каждая деталь прошла несколько стадий ручной шлифовки, финишное покрытие выполнено полиуретановым лаком. Толщина столешницы составляет 35 мм. Возможно изготовление под заказ с соблюдением всех ваших пожеланий.</description>
-			</offer>
-			<offer id="0836" available="true">
-				<name>Письменный стол "Smoke"</name>
-				<categoryId>6</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/30c/244_244_0/j4h4ln3gxy8qm6cf4um8k5qbxyoygafm.png</picture>
-				<price>120 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Вашему вниманию представлена еще одна эксклюзивная модель письменного стола от нашей команды мастеров, великолепный стол "Smoke". За основу изделия мы взяли заготовку карагача, как следует поработали с ней и в конце получили восхитительное изделие. Края столешницы, а так же все трещинки и сучки данной заготовки мы пролили эпоксидной смолой, чтобы поверхность идеально ровной, и притягивала взгляды снова и снова. Финишное покрытие сделано полиуретановым лаком и прошло несколько стадий ручной полировки. Выдвижные ящики оборудованы фурнитурой высокого качества, открывание нажатием. Высота изделия составляет 75 см. Возможно изготовление под заказ по индивидуальным размерам.</description>
-			</offer>
-			<offer id="0756" available="true">
-				<name>Зеркало в светлых оттенках</name>
-				<categoryId>12</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/368/244_244_0/koobzmua5j91u7wybfzio5unc6yh7ja7.png</picture>
-				<price>19 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Зеркало в раме из карагача с переходящим цветом дерева.</description>
-			</offer>
 			<offer id="0729" available="true">
 				<name>Зеркало "Классика"</name>
-				<categoryId>2</categoryId>
+				<categoryId>16</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/8b4/244_244_0/fgk7jpkifx8e09wn2fa4rajrk1t11i6l.png</picture>
-				<price>14 500 </price>
+				<price>14500</price>
 				<currencyId>RUB</currencyId>
 				<description>Стильное зеркало в раме из карагача под любой интерьер.</description>
 			</offer>
-			<offer id="0746" available="true">
-				<name>Зеркало в раме из карагача</name>
-				<categoryId>12</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/d1d/244_244_0/qlq3e0fxmyb38i5v0l81kl4x30qobjqy.png</picture>
-				<price>20 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Красивое большое зеркало в раме из слэбов карагача. Возможно использовать зеркало горизонтально или вертикально любой стороной, петли с обратной стороны на всех 4 углах.</description>
-			</offer>
-			<offer id="0747" available="true">
-				<name>Зеркало в раме из карагача</name>
-				<categoryId>12</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/e81/244_244_0/jy96mcj95ff611tpikja079n8l2htc9y.png</picture>
-				<price>19 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Красивое зеркало в раме из каповых слэбов карагача. Возможно использовать зеркало горизонтально или вертикально любой стороной, петли с обратной стороны на всех 4 углах.</description>
-			</offer>
-			<offer id="0742" available="true">
-				<name>Зеркало в раме из массива карагача</name>
-				<categoryId>12</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/391/244_244_0/wwhvuib4k6cs2nkfknrfe7xxd0gowfce.png</picture>
-				<price>30 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Большое круглое зеркало в раме из массива карагача. Ширина рамы 77 мм. Вставка из эпоксидной смолы.</description>
-			</offer>
-			<offer id="0760" available="true">
-				<name>Часы с эпоксидной смолой</name>
-				<categoryId>12</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/7a2/244_244_0/wjk84hksdu1gvrgv3f1erndvzl1mm606.png</picture>
-				<price>4 200 </price>
-				<currencyId>RUB</currencyId>
-				<description>Декоративные часы из массива карагача с эпоксидной смолой. Изделие оснащено часовым механизмом плавного хода. Возможно изготовление под заказ в различной цветовой гамме.</description>
-			</offer>
-			<offer id="0766" available="true">
-				<name>Часы "Галактика"</name>
-				<categoryId>12</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/861/244_244_0/9724wriy91w1p77nuwtphedb3at1svxd.jpeg</picture>
-				<price>4 200 </price>
-				<currencyId>RUB</currencyId>
-				<description>Часы изготовлены из МДФ в сочетании с черной глянцевой покраской. Диаметр изделия 45 см.</description>
-			</offer>
-			<offer id="0765" available="true">
-				<name>Панно из массива тополя с эпоксидной смолой</name>
-				<categoryId>12</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/aac/244_244_0/xrzcxuugh2ywwgtik6ihpz7ynag5ux40.jpg</picture>
-				<price>13 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Декоративное настенное пано выполнено из массива капового тополя в сочетании с эпоксидной смолой синего цвета. Рамка изделия изготовлена из термодревесины. Пано украсит собой вашу зону отдыха, а уникальные древесные линии изделия дадут ощущение сближения с природой. Возможно изготовление под заказ по индивидуальным размерам, цвет эпоксидной смолы может быть различным.</description>
-			</offer>
-			<offer id="0769" available="true">
-				<name>Часы из массива в металлической рамке</name>
-				<categoryId>12</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/ef5/244_244_0/xh9jlg1vel8vlkq020kjmm83wn823ryz.png</picture>
-				<price>5 500 - 6 500 </price>
-				<currencyId>RUB</currencyId>
-				<description>Оригинальная модель настенных часов из может быть выполнена из заготовки массива горного вяза либо ореха. По периметру часов, по мимо круглой рамки, из металлического профиля может быть легкий круг из металлической полосы. Наличие моделей уточняйте у наших менеджеров. Возможно изготовление под заказ по вашим индивидуальным пожеланиям.</description>
-			</offer>
-			<offer id="0768" available="true">
-				<name>Часы из массива в сочетании с эпоксидной смолой</name>
-				<categoryId>12</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/4d6/244_244_0/kxbe7ijmwikifgt2vpsoj3ddoajzo0gm.png</picture>
-				<price>9 500 </price>
-				<currencyId>RUB</currencyId>
-				<description>Данное изделие выполнено из эксклюзивной заготовки капового тополя в сочетании с эпоксидной смолой янтарного оттенка. Часы оснащены механизмом плавного хода.</description>
-			</offer>
-			<offer id="0767" available="true">
-				<name>Авторские часы из массива тополя с эпоксидной смолой</name>
-				<categoryId>12</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/4a6/244_244_0/kcp3mvlq9qjfzi9btocey3a3mxa97kpi.png</picture>
-				<price>10 900 </price>
-				<currencyId>RUB</currencyId>
-				<description>Изделие выполнено из заготовки капового тополя в сочетании с эпоксидной смолой. Возможно изготовление под заказ в различной цветовой гамме, форма так же может быть различной. Часовой механизм плавного хода.</description>
-			</offer>
-			<offer id="0771" available="true">
-				<name>Эксклюзивные часы из массива в сочетании с эпоксидной смолой</name>
-				<categoryId>12</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f9d/244_244_0/qhjxu221mnsm5fuqftasdljsnqkwcq3f.png</picture>
-				<price>6 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Эксклюзивные модели настенных часов выполнены из массива горного вяза (карагач) в сочетании с эпоксидной смолой. Данное изделие придаст вашему пространству новых красок и станет настоящей изюменкой вашего пространства. Возможно изготовление под заказ в различной цветовой гамме. Наличие моделей уточняйте у наших менеджеров.</description>
-			</offer>
-			<offer id="0770" available="true">
-				<name>Авторские часы из массива на ваш выбор</name>
-				<categoryId>12</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/d68/244_244_0/3kkab03agwrow8htwuyh5y5hilcc8n3q.png</picture>
-				<price>5 000 - 6 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Оригинальная модель настенных часов из заготовки массива Американского ореха (Черное дерево) обрамленной рамкой из мдф. Так же возможно изготовление с применением массива Горного вяза (карагач), по примеру модели исполненной в светлых тонах. Часы украсят собой выше пространство и будут притягивать к себе внимание снова и снова. Наличие моделей можете уточнить у наших менеджеров.</description>
-			</offer>
-			<offer id="0773" available="true">
-				<name>Зеркало из массива горного вяза</name>
-				<categoryId>12</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/3d5/244_244_0/g3oqp9ali5rm4iijntjcb5rxc1iaye7m.png</picture>
-				<price>42 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Оригинально зеркало в стиле "Река" из массива горного вяза/карагача. Габарит изделия составляет 210 х 100 см. Заготовки рамки идеально отшлифованы и отполированы. При тактильных прикосновениях дерево вам будет дарить тепло и только самые положительные эмоции. Возможно изготовление под заказ в различных цветовых оттенках и размерах.</description>
-			</offer>
-			<offer id="0772" available="true">
-				<name>Комплект кресел из массива в зону отдыха</name>
-				<categoryId>12</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/5a2/244_244_0/823036wcz6yy3pdc06628ll9659el2iw.png</picture>
-				<price>По зап</price>
-				<currencyId>RUB</currencyId>
-				<description>Данные комплект кресел можно назвать настоящим декоративным, эксклюзивным элементом вашей зоны отдыха. Изделия выполнены из массива карагача, ножки металлические. Конструктив изделия исполнен путем соединения между собой большого количества пятиугольных деталей, весь материал отбирался и обрабатывался вручную, далее была кропотливая работа по сборке, но результат оказался просто роскошным. В комплект к креслам идет мягкая накладка для осуществления более комфортной посадки, а так же журнальный столик с эпоксидной смолой в подобном стиле, его диаметр 60 см, основание изготовлено из металла. Возможны различные цветовые исполнения. Стоимость одного кресла 69 000 руб, стоимость столика 32 000 руб.</description>
-			</offer>
 			<offer id="0902" available="true">
 				<name>Столешница под раковину</name>
-				<categoryId>2</categoryId>
+				<categoryId>16</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/406/244_244_0/ltnxopabtlgv9ah1pzqqnp34dop663be.png</picture>
-				<price>40 000 </price>
+				<price>40000</price>
 				<currencyId>RUB</currencyId>
 				<description>Столешница в ванную из карагача с заливкой эпоксидной смолой янтарного цвета. Толщина столешницы 60 мм.</description>
 			</offer>
 			<offer id="0901" available="true">
 				<name>Столешница из карагача</name>
-				<categoryId>2</categoryId>
+				<categoryId>16</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/69a/244_244_0/zc11p145uejtb918d4hqup7dsd4wt15l.png</picture>
-				<price>22 000 </price>
+				<price>22000</price>
 				<currencyId>RUB</currencyId>
 				<description>Цельная столешница из слэба карагача в ванную комнату под раковину или в качестве полочки. Толщина изделия 65 мм.</description>
 			</offer>
-			<offer id="0905" available="true">
-				<name>Столешница под раковину со смолой</name>
-				<categoryId>15</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f4d/244_244_0/ouzfbn8xe8d9ug1yney5bl4p174d3nn3.png</picture>
-				<price>30 000 </price>
+			<offer id="0823" available="true">
+				<name>Письменный стол из массива карагача</name>
+				<categoryId>12</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/77d/244_244_0/hs4g84zurzpgji6u40x6lezzwu6zadll.png</picture>
+				<price>75000</price>
 				<currencyId>RUB</currencyId>
-				<description>Красивая оригинальная столешница из цельного слэба карагача с яркой заливкой бирюзовой смолой. Толщина столешницы 40 мм. Цвет дерева с серым оттенком.</description>
+				<description>Дизайнерский письменный стол из массива карагача с заливкой эпоксидной смолы. Деревянная ножка с переходящим рисунком древесины. Отличное решение для вашего кабинета.</description>
 			</offer>
-			<offer id="1108" available="true">
-				<name>Столешница из массива карагача</name>
-				<categoryId>4</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/866/244_244_0/xe1nezxs78jzeg8o4w6x1q0i3qdkvd3n.png</picture>
-				<price>57 000 </price>
+			<offer id="0825" available="true">
+				<name>Письменный стол из массива</name>
+				<categoryId>12</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/520/244_244_0/8trli1th22yupz12rbh77s6zjrxfv7n1.png</picture>
+				<price>78000</price>
 				<currencyId>RUB</currencyId>
-				<description>Столешница выполнена из массива горного вяза в сочетании с эпоксидной смолой янтарного цвета. Толщина столешницы 50 мм.</description>
+				<description>Письменный стол выполнен из массива горного вяза. Темные заливки эпоксидной смолой на фоне светлой древесины придают изделию неповторимую оригинальность, от которой вы получите настоящее наслаждение. Возможно изготовление по индивидуальным размерам. Тонировка древесины, как и цвет смолы, могут быть различными.</description>
 			</offer>
-			<offer id="1104" available="true">
-				<name>Столешница из карагача с синей смолой</name>
-				<categoryId>4</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/1c5/244_244_0/nlbqz0slx2bmqnecer4lhlf4piemnhqt.jpg</picture>
-				<price>101 000 </price>
+			<offer id="0816" available="true">
+				<name>Авторский письменный стол из ореха</name>
+				<categoryId>11</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/fd4/244_244_0/azusjllps52wf5t5x07dvy6yk3ihi3nv.png</picture>
+				<price>93000</price>
 				<currencyId>RUB</currencyId>
-				<description>Красивая классическая столешница в стиле "река" из карагача. Толщина столешницы около 40 мм.</description>
+				<description>Авторский письменный стол с выдвижным ящиком на магнитном механизме. Стол красив и эстетичен, подойдет для тех, кто уважает своё рабочее пространство. За таким столом приятно сидеть и удобно работать, он впишется в современный интерьер и будет не только мебелью, но и практичным инструментом.</description>
 			</offer>
-			<offer id="1105" available="true">
-				<name>Столешница из ивы под большой стол</name>
-				<categoryId>4</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/a20/244_244_0/khenzsljer6jwtf3cib1f6elnhx2oo6w.jpg</picture>
-				<price>168 000 </price>
+			<offer id="0827" available="true">
+				<name>Письменный стол из массива горного вяза</name>
+				<categoryId>12</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/7b8/244_244_0/9hhl8x77gg8lj9zchpvk53300nk0k8bf.png</picture>
+				<price>52000</price>
 				<currencyId>RUB</currencyId>
-				<description>Яркая и необычная столешница из ивы с большим количеством капов. Неровный натуральный край дерева придает брутальность и эксклюзивность изделию.</description>
+				<description>При изготовлении стола использовался цельный слэб карагача. Все трещины и природные неровности пролиты прозрачной эпоксидной смолой, поверхность столешницы идеально отшлифована и отполирована.</description>
 			</offer>
-			<offer id="1114" available="true">
-				<name>Столешница из массива карагача с эпоксидной смолой</name>
-				<categoryId>4</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/e1d/244_244_0/3npuaspykjwuvpwkuttb07kfg0u9em3u.png</picture>
-				<price>65 000 </price>
+			<offer id="0829" available="true">
+				<name>Письменный стол "Bean"</name>
+				<categoryId>12</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/3e9/244_244_0/zo5pskx2b98y6nfhf26wx5fkmxpixhxi.png</picture>
+				<price>70000</price>
 				<currencyId>RUB</currencyId>
-				<description>Столешница выполнена из массива карагача с заливкой эпоксидной смолы голубого оттенка. Теплый цвет древесины привнесет в вашу зону идиллию и комфорт, а тактильные прикосновения подарят очень приятные ощущения. Толщина столешницы составляет 37 мм. Подстолье можно изготовить под заказ в исполнении из массива либо металла, окраска возможна в любой оттенок.</description>
+				<description>Современный, легкий и эстетичный письменный стол от наших мастеров "Bean". Столешница данного изделия выполнена из массива горного вяза/карагача, идеально отшлифована и отполирована. Все трещинки и природные неровности пролиты эпоксидной смолой для создания идеально гладкой поверхности. Финишное покрытие исполнено водным лаком для жесткости покрытия. Тонировка производилась экологически чистыми немецкими маслами. Толщина столешницы составляет около 40 мм. Опора металлическая, высота готового изделия составляет 765 мм.</description>
 			</offer>
-			<offer id="1111" available="true">
-				<name>Обеденная столешница "Cherries"</name>
-				<categoryId>4</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f35/244_244_0/7ybk5tldabian7cyogqitx2cho6swjcg.png</picture>
-				<price>76 000 </price>
+			<offer id="0830" available="true">
+				<name>Письменный стол "Black Bean"</name>
+				<categoryId>12</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/eb7/244_244_0/p7226ez08ar9w2697klw0fvbru1cwsqu.png</picture>
+				<price>70000</price>
 				<currencyId>RUB</currencyId>
-				<description>Готовая столешница в сочетании эпоксидной смолы и эксклюзивной заготовки массива черешни. Заливка выполнена в темной цветовой гамме, но через смолу вы можете увидеть всю красоту природы. Внутренние "берега" не проходили первоначальную обработку, заливка производилась вместе с корой, что смотрится очень необычно и красиво. Под данную модель подойдут различные модели оснований, за всей подробной информацией обращайтесь к нашим менеджерам.</description>
+				<description>Еще одна эксклюзивная работа от наших мастеров, письменный стол "Black Bean". Столешница выполнена из массива черного дерева (американский орех), все природные неровности на поверхности столешницы пролиты эпоксидной смолой для создания идеально гладкой плоскости. Перед тем как нанести финишный слой водного лака для прочности покрытия, столешница прошла несколько стадий ручной шлифовки. Времяпрепровождение за таким объектом сделает работу в радость! Толщина столешницы составляет около 40 мм. Опора металлическая. Высота готового изделия 765 мм.</description>
 			</offer>
-			<offer id="1115" available="true">
-				<name>Эксклюзивная столешница из массива акации</name>
-				<categoryId>4</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/864/244_244_0/2ozljfel8xjzvl8z6tdzbg6wapnaeoo7.png</picture>
-				<price>143 000 </price>
+			<offer id="0833" available="true">
+				<name>Письменный стол "Simple"</name>
+				<categoryId>12</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/aec/244_244_0/y5q3qfuxwp17120t0glwr93q2r1vfkxc.png</picture>
+				<price>63000</price>
 				<currencyId>RUB</currencyId>
-				<description>Эксклюзивная столешница из массива акации с эпоксидной смолой темного оттенка. Поверхность столешницы прошла несколько стадий ручной шлифовки и полировки. Финишный слой выполнен водным лаком который подчеркивает натуральный цвет древесины. По подбору основания для данной модели обращайтесь к нашим менеджерам.</description>
+				<description>Казалось бы, все просто, всего на всего деревянная доска, но как она роскошно смотрится в законченном виде. Красота в простоте! За основу изделия взят слэб массива карагача, который прошел несколько этапов фрезеровки, ручной шлифовки и полировки. Все природные неровности и сучки пролиты эпоксидной смолой для получения идеально ровной поверхности, которая готова дарить вам теплые эмоции при прикосновениях и делать ваш рабочий процесс более приятным. Основание сделано из металла и окрашено в черный цвет. Возможно изготовление под заказ по всем индивидуальным пожеланиям.</description>
 			</offer>
-			<offer id="1117" available="true">
-				<name>Эксклюзивная столешница из массива капового тополя</name>
-				<categoryId>4</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/79c/244_244_0/qo6i6e49tbeb2xcpxv03iv4v80yqvuf4.jpg</picture>
-				<price>93 000 </price>
+			<offer id="0822" available="true">
+				<name>Письменный стол эксклюзивной серии</name>
+				<categoryId>11</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f86/244_244_0/8cn4066ttmh8rgh2nta2nlr3u24se1ei.png</picture>
+				<price>145000</price>
 				<currencyId>RUB</currencyId>
-				<description>Вашему вниманию представлена великолепная столешница из массива капового тополя в сочетании с эпоксидной смолой синего оттенка. Уникальные природные формы изделия привлекают взгляд, будут дарить огромное количество положительных эмоций и чувство сближения с природой. Финишное покрытие сделано тонким слоем эпоксидной смолы. Толщина столешницы составляет 33 мм.</description>
+				<description>Стол из слэба карагача в обрамлении черной эпоксидной смолой в минималистическом стиле будет настоящей изюминкой вашего кабинета. С двумя ящиками, система открывания Tip-on. Высота стола 75 см. Толщина столешницы 40 мм.</description>
+			</offer>
+			<offer id="0835" available="true">
+				<name>Письменный стол из массива карагача</name>
+				<categoryId>12</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/b9e/244_244_0/9zg9hanw5i8jg4l2pjqkjy4b0wc6p593.png</picture>
+				<price>105000</price>
+				<currencyId>RUB</currencyId>
+				<description>Очередной великолепный и стильный письменный стол от нашей команды мастеров. Изделие полностью изготовленно из массива карагача (горный вяз). За основу мы взяли две заготовки которые прекрасно сочетаются друг с другом и обладают очень красивым древесным рисунком. Стол оборудован двумя выдвижными ящиками для удобства работы, фасады которых украшены вырезанным рисунком. Каждая деталь прошла несколько стадий ручной шлифовки, финишное покрытие выполнено полиуретановым лаком. Толщина столешницы составляет 35 мм. Возможно изготовление под заказ с соблюдением всех ваших пожеланий.</description>
+			</offer>
+			<offer id="0836" available="true">
+				<name>Письменный стол "Smoke"</name>
+				<categoryId>12</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/30c/244_244_0/j4h4ln3gxy8qm6cf4um8k5qbxyoygafm.png</picture>
+				<price>120000</price>
+				<currencyId>RUB</currencyId>
+				<description>Вашему вниманию представлена еще одна эксклюзивная модель письменного стола от нашей команды мастеров, великолепный стол "Smoke". За основу изделия мы взяли заготовку карагача, как следует поработали с ней и в конце получили восхитительное изделие. Края столешницы, а так же все трещинки и сучки данной заготовки мы пролили эпоксидной смолой, чтобы поверхность идеально ровной, и притягивала взгляды снова и снова. Финишное покрытие сделано полиуретановым лаком и прошло несколько стадий ручной полировки. Выдвижные ящики оборудованы фурнитурой высокого качества, открывание нажатием. Высота изделия составляет 75 см. Возможно изготовление под заказ по индивидуальным размерам.</description>
+			</offer>
+			<offer id="0000" available="true">
+				<name>Суперстул</name>
+				<categoryId>8</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/c64/244_244_0/ihg4k2fdbc1330d6k5dm1u0xu9hdqnbe.jpg</picture>
+				<price>1</price>
+				<currencyId>RUB</currencyId>
+				<description>Всегда можно выбрать стул попроще</description>
 			</offer>
 			<offer id="0302" available="true">
 				<name>Дизайнерский стул</name>
-				<categoryId>10</categoryId>
+				<categoryId>8</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/ba4/244_244_0/69zwjq6cfeg2to7dtapi0myya0gl018c.png</picture>
-				<price>20 000 </price>
+				<price>20000</price>
 				<currencyId>RUB</currencyId>
 				<description>Оригинальный по своему дизайну стул из натурального дерева. Обладает надежной устойчивостью при нестандартной конструкции.</description>
 			</offer>
 			<offer id="0306" available="true">
 				<name>Комплект кресел из массива в зону отдыха</name>
-				<categoryId>10</categoryId>
+				<categoryId>8</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/5a2/244_244_0/823036wcz6yy3pdc06628ll9659el2iw.png</picture>
-				<price>По зап</price>
 				<currencyId>RUB</currencyId>
 				<description>Данные комплект кресел можно назвать настоящим декоративным, эксклюзивным элементом вашей зоны отдыха. Изделия выполнены из массива карагача, ножки металлические. Конструктив изделия исполнен путем соединения между собой большого количества пятиугольных деталей, весь материал отбирался и обрабатывался вручную, далее была кропотливая работа по сборке, но результат оказался просто роскошным. В комплект к креслам идет мягкая накладка для осуществления более комфортной посадки, а так же журнальный столик с эпоксидной смолой в подобном стиле, его диаметр 60 см, основание изготовлено из металла. Возможны различные цветовые исполнения. Стоимость одного кресла 55 000 руб, стоимость столика 28 000 руб.</description>
 			</offer>
 			<offer id="0308" available="true">
 				<name>Стул из массива карагача "Retro"</name>
-				<categoryId>10</categoryId>
+				<categoryId>8</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/4ee/244_244_0/7az0qqmv5ym49fbtig5mbl6062rr2fx8.png</picture>
-				<price>29 000 </price>
+				<price>29000</price>
 				<currencyId>RUB</currencyId>
 				<description>Еще одна разработка наших мастеров, стул из массива карагача "Retro". Все элементы изделия обладает мягкими, изогнутыми линиями, которые придают стулу очень гармоничный вид. Каждая деталь вскрыта экологически-чистым маслом немецкого производителя и идеально отшлифована, очень приятна на ощупь. Изделие возможно затонировать в различные оттенки. Полные габариты изделия следующие: высота по спинке 825 мм., высота гнутой спинки 150 мм., ширина спинки 415 мм., ширина сиденья 360-400 мм., глубина сиденья 400 мм., высота сиденья 450 мм впереди 425 мм сзади.</description>
 			</offer>
 			<offer id="0307" available="true">
 				<name>Стул из массива "Grace"</name>
-				<categoryId>10</categoryId>
+				<categoryId>8</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/432/244_244_0/svlv16664s9dsko5e452pi89a9n5n3s3.png</picture>
-				<price>От 25 000 </price>
+				<price>25000</price>
 				<currencyId>RUB</currencyId>
 				<description>Необычайно красивый и гармоничный стул из массива от нашей команды мастеров. Данная модель отличается невероятным удобством посадки и мягкими линиями. Времяпреровождение сидя на данном стуле придаст море приятных ощущений, проводите время за трапезой или общением с комфортом!  Мягкая часть изделия может быть выполнена из различных видов ткани и цветовой гамме. Древесина так же может быть в различных цветовых оттенках. Высота сидения составляет 44 см, высота по спинке 73 см.</description>
 			</offer>
-			<offer id="0173" available="true">
-				<name>Журнальный стол из массива Американского ореха</name>
-				<categoryId>3</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/ee0/244_244_0/pg7n7lflm4k4met182m71hkn0nmics39.jpg</picture>
-				<price>от 35 000 </price>
+			<offer id="0756" available="true">
+				<name>Зеркало в светлых оттенках</name>
+				<categoryId>4</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/368/244_244_0/koobzmua5j91u7wybfzio5unc6yh7ja7.png</picture>
+				<price>19000</price>
 				<currencyId>RUB</currencyId>
-				<description>Столешница изделия сделана из массива американского ореха (черное дерево) в сочетании с заливкой эпоксидной смолы молочного оттенка. На поверхности бурлит оригинальный древесный рисунок, а пролитые смолой небольшие трещинки и сучки придают эксклюзивности изделию. Поверхность столешницы прошла несколько этапов шлифовки и полировки, перед тем, как будет вас будоражить ощущениями после тактильных прикосновений. Приблизьтесь к естественной красоте природы! Толщина столешницы около 23 мм. Высота изделия 45 см. Подстолье выполнено из металла. Возможно изготовление под заказ по вашим индивидуальным пожеланиям.</description>
+				<description>Зеркало в раме из карагача с переходящим цветом дерева.</description>
 			</offer>
-			<offer id="0157" available="true">
-				<name>Журнальный стол с эпоксидной смолой</name>
-				<categoryId>3</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/0b2/244_244_0/ga6t4z4ga3cg33i72oklouhkbqcxe7ty.png</picture>
-				<price>27 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Изделие выполнено из массива капового тополя с заливкой эпоксидной смолы синего цвета. Основание металлическое, высота изделия составляет 45 см, толщина столешницы 25 мм. Оригинальные и неповторимые линии дерева создадут впечатление уединения с природой, ваша зона отдыха заиграет новыми красками и преобразиться вместе с уникальным изделием. Финишное покрытие сделано полиуретановым лаком для защиты поверхности столешницы.</description>
-			</offer>
-			<offer id="0195" available="true">
-				<name>Журнальный стол «Exotic maple»</name>
-				<categoryId>3</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/28f/244_244_0/sjzbq8lze5f6a7qxl2meq1kjwrxqvzpf.png</picture>
-				<price>от 72 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Эксклюзивный журнальный стол "Exotic maple". Основой изделия послужил оригинальный спил массива клена, цветовая гамма массива и природные очертания влюбляют в себя с первого взгляда!!! Заливка эпоксидной смолы выполнена в черном цвете. Финишной покрытие выполнено полиуретановым лаком. Поверхность столешницы идеально отшлифована и отполирована. Основание для данной модели изготовлено из метала и окрашено черной эмалью. У нас на складе имеется огромный выбор различных спилов, возможно изготовление под заказ по всем индивидуальным пожеланиям.</description>
-			</offer>
-			<offer id="0187" available="true">
-				<name>Журнальный столик «Black Island»</name>
-				<categoryId>3</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/b37/244_244_0/9ooj99d0276pacyvecg1opfulr4wwuay.png</picture>
-				<price>36 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Наши мастера закончили работу над еще одним эффектным столиком! При изготовлении данного изделия применялся спил массива горного вяза (карагача), облитый непрозрачной черной эпоксидной смолой. Древесный рисунок на поверхности столешницы бурлит оригинальными узорами, приковывая взгляды снова и снова, а гармоничные линии по периметру столешницы придают эксклюзивность и неповторимость. Столешница идеально отшлифована, финишный слой выполнен водным лаком для прочности покрытия. Основание металлическое. Возможно изготовление под заказ по индивидуальным требованиям и пожеланиям.</description>
-			</offer>
-			<offer id="0185" available="true">
-				<name>Журнальный стол из серии «Beautiful»</name>
-				<categoryId>3</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/a9f/244_244_0/561gf1lrhwnmf3g00jav7jydbrg0tpkx.jpg</picture>
-				<price>50 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Эксклюзивный столик от наших мастеров! Оригинальная и неповторимая модель журнального столика из Американского ореха в сочетании с эпоксидной смолой темного оттенка. Изделие прошло несколько стадий шлифовки, поверхность столешницы идеально гладкое и очень приятное на ощупь. Финишное покрытие выполнено полиуретановым лаком. Основание изготовлено так же из массива Американского ореха. Высота журнального столика составляет 360 мм.</description>
-			</offer>
-			<offer id="0111" available="true">
-				<name>Эксклюзивный столик в янтарной заливке</name>
-				<categoryId>3</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/114/244_244_0/hjsz3fboj31n7jxxfce0216n31f5suiu.png</picture>
-				<price>68 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Неповторимый журнальный столик из необычного слэба карагача в полной заливке янтарной эпоксидной смолой. Настоящий эксклюзив!Толщина столешницы 36 мм.</description>
-			</offer>
-			<offer id="0189" available="true">
-				<name>Журнальный стол «Forest river»</name>
-				<categoryId>3</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/05f/244_244_0/1mq1k29dfreu7jconmfnnwvzvx50iikd.png</picture>
-				<price>47 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>При изготовлении данной модели наши мастера использовали заготовки горного вяза, которые отлично сочетаются с эпоксидной смолой нежно голубого оттенка. Заготовки обладают очень красивым, ярко-выраженным древесным рисунком, который будет притягивать ваш взгляд снова и снова!!! Поверхность изделия идеально отшлифована и очень приятная на ощупь, каждое тактильное прикосновение будет приносить ощущение сближения с природой и будет дарить вам тепло дерева изо дня в день. Основание выполнено из металла и окрашено в цветовую гамму столешницы. Возможно изготовление под заказ по индивидуальным пожеланиям.</description>
-			</offer>
-			<offer id="0192" available="true">
-				<name>Журнальный стол «Berry»</name>
-				<categoryId>3</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/af6/244_244_0/1g4xw0cmzeevyxsjl05gfrtaj4td5evc.png</picture>
-				<price>30 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Данная модель журнального столика выполнена из заготовок массива черешни с заливкой темной эпоксидной смолой. Наши мастера сохранили природные края, чтобы вы оценили гармоничные изгибы природных линий, которые прекрасно сочетаются с приятным древесным рисунком. Поверхность столешницы идеально отшлифована и отполирована, по тактильным ощущениям очень приятная на ощупь. Подстолье изготовлено из металла. Высота изделия составляет 45 см.</description>
-			</offer>
-			<offer id="0169" available="true">
-				<name>Журнальный стол «Fantasy»</name>
-				<categoryId>3</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/5dd/244_244_0/tmpms4okla2fl520pfijatrani8nas78.png</picture>
-				<price>53 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>При изготовлении столика использовалась эксклюзивная заготовка горного вяза/ карагача в сочетании с черным МДФ, которые придают столешнице оригинальность и неповторимость исполнения. Толщина столешницы составляет 35 мм. Авторское основание для столешницы выполнено из металла и покрыто автоэмалью двух цветов. Изделие гармонично украсит собой практически любой интерьер и будет приковывать взгляды ваших гостей снова и снова.</description>
-			</offer>
-			<offer id="0127" available="true">
-				<name>Журнальный стол «Classic»</name>
-				<categoryId>3</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/702/244_244_0/lrbbr5gnjshxqwi1xxv2c1fl66ioh3bz.png</picture>
-				<price>25 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Вашему вниманию представлен журнальный стол из массива карагача в классическом стиле. Диаметр столешницы составляет 70 см, высота изделия 45 см. Все природные неровности, трещинки и сучки наши мастера пролили эпоксидной смолой молочного оттенка. Тонировка древесины выполнена в благородном древесном цвете. Возможно изготовление под заказ по всем индивидуальным пожеланиям.</description>
-			</offer>
-			<offer id="0193" available="true">
-				<name>Столик из тополя в заливке смолой</name>
-				<categoryId>3</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/3ec/244_244_0/227t331n8jp47hcqq9hmjrtuaemhn9df.png</picture>
-				<price>55 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>За основу данной модели был взят спил капового тополя, который был полностью залит в эпоксидную смолу голубого оттенка. Изделие отлично дополнит собой любое пространство и украсит вашу зону отдыха. Поверхность столешницы прошла несколько стадий ручной полировки, что придало необычайный шарм. Основание изготовлено из нетипового полуовального профиля и окрашено в золотистый цвет.</description>
-			</offer>
-			<offer id="0191" available="true">
-				<name>Журнальный стол «Enjoy the art»</name>
-				<categoryId>3</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/a7a/244_244_0/a0g15rr6icvt1zk5vssqswf0sw2evdbg.png</picture>
-				<price>от 56 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Закончена работа над еще одним эксклюзивным изделием, журнальный стол "Enjoy the art". За основу данной модели взят оригинальный спил клена с очень красивым фрагментом природной пустоты, расположенной по центру. Заливка эпоксидной смолы выполнена в темной цветовой гамме, которая отлично сочетается с данной заготовкой, природный рисунок бурлит своей фактурой и завораживает с первого взгляда. Поверхность столешницы прошла несколько стадий ручной шлифовки и полировки, чтобы каждое прикосновение приносило вам только приятные эмоции. Толщина столешницы составляет 37 мм. Высота изделия 455 мм. На складе имеется большой выбор подобных заготовок, возможно изготовление в различной цветовой гамме.</description>
-			</offer>
-			<offer id=" 0171" available="true">
-				<name>Стол «Река» трансформер</name>
-				<categoryId>3</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/0c4/244_244_0/1vimxgonti313xj2g50a5u3assoti7h6.png</picture>
-				<price>60 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Столешница изготовлена из эксклюзивных заготовок массива горного вяза/карагача с заливкой эпоксидной смолы светло-черного оттенка. Толщина столешницы составляет порядка 20 мм. Идеально отшлифованная поверхность столешницы будет манить к себе снова и снова, вы никогда не устанете от эмоций, которые будете получать при тактильных прикосновениях. Финишное покрытие выполнено экологически чистыми немецкими маслами. Подстолье металлическое, с нанесением порошкового покрытия. Высота изделия может варьироваться от 50 до 70 см. Возможно изготовление под заказ по индивидуальным пожеланиям.</description>
-			</offer>
-			<offer id="0196" available="true">
-				<name>Журнальный стол «Decor»</name>
-				<categoryId>3</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/fc3/244_244_0/hm1twal2m46146v9siz6ceh099vfq6nn.png</picture>
-				<price>35 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>При изготовлении данного изделия мы взяли за основу гармоничный слэб горного вяза (карагач), все трещинки и природные неровности заполнили эпоксидной смолой и получили прекрасную модель журнального столика. Он отлично впишется в различный интерьер и подарит вам тепло живой древесины. На поверхности столешницы бурлит своими очертаниями неповторимый древесный рисунок, все идеально отшлифовано и отполировано, чтобы радовать вас как при тактильных прикосновениях, так и от одного взгляда. Подстолье выполнено из металла и окрашено в черный цвет. Возможно изготовление под заказ.</description>
-			</offer>
-			<offer id="0186" available="true">
-				<name>Журнальный столик из массива ореха</name>
-				<categoryId>3</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/ae4/244_244_0/j5bja6vrnhqm7l7if3id2m833mthg5ff.png</picture>
-				<price>36 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Аккуратный журнальный столик из ореха залитого эпоксидной смолой, финишное покрытие столешницы выполнено лаком, толщина столешницы 20 мм. Основание изготовлено из металла и окрашено черной эмалью. Возможно изготовление на заказ по индивидуальным размерам.</description>
-			</offer>
-			<offer id="0823" available="true">
-				<name>Письменный стол из массива карагача</name>
-				<categoryId>6</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/77d/244_244_0/hs4g84zurzpgji6u40x6lezzwu6zadll.png</picture>
-				<price>75 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Дизайнерский письменный стол из массива карагача с заливкой эпоксидной смолы. Деревянная ножка с переходящим рисунком древесины. Отличное решение для вашего кабинета.</description>
-			</offer>
-			<offer id="0825" available="true">
-				<name>Письменный стол из массива</name>
-				<categoryId>6</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/520/244_244_0/8trli1th22yupz12rbh77s6zjrxfv7n1.png</picture>
-				<price>78 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Письменный стол выполнен из массива горного вяза. Темные заливки эпоксидной смолой на фоне светлой древесины придают изделию неповторимую оригинальность, от которой вы получите настоящее наслаждение. Возможно изготовление по индивидуальным размерам. Тонировка древесины, как и цвет смолы, могут быть различными.</description>
-			</offer>
-			<offer id="0816" available="true">
-				<name>Авторский письменный стол из ореха</name>
-				<categoryId>17</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/fd4/244_244_0/azusjllps52wf5t5x07dvy6yk3ihi3nv.png</picture>
-				<price>93 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Авторский письменный стол с выдвижным ящиком на магнитном механизме. Стол красив и эстетичен, подойдет для тех, кто уважает своё рабочее пространство. За таким столом приятно сидеть и удобно работать, он впишется в современный интерьер и будет не только мебелью, но и практичным инструментом.</description>
-			</offer>
-			<offer id="0827" available="true">
-				<name>Письменный стол из массива горного вяза</name>
-				<categoryId>6</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/7b8/244_244_0/9hhl8x77gg8lj9zchpvk53300nk0k8bf.png</picture>
-				<price>52 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>При изготовлении стола использовался цельный слэб карагача. Все трещины и природные неровности пролиты прозрачной эпоксидной смолой, поверхность столешницы идеально отшлифована и отполирована.</description>
-			</offer>
-			<offer id="0829" available="true">
-				<name>Письменный стол "Bean"</name>
-				<categoryId>6</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/3e9/244_244_0/zo5pskx2b98y6nfhf26wx5fkmxpixhxi.png</picture>
-				<price>70 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Современный, легкий и эстетичный письменный стол от наших мастеров "Bean". Столешница данного изделия выполнена из массива горного вяза/карагача, идеально отшлифована и отполирована. Все трещинки и природные неровности пролиты эпоксидной смолой для создания идеально гладкой поверхности. Финишное покрытие исполнено водным лаком для жесткости покрытия. Тонировка производилась экологически чистыми немецкими маслами. Толщина столешницы составляет около 40 мм. Опора металлическая, высота готового изделия составляет 765 мм.</description>
-			</offer>
-			<offer id="0830" available="true">
-				<name>Письменный стол "Black Bean"</name>
-				<categoryId>6</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/eb7/244_244_0/p7226ez08ar9w2697klw0fvbru1cwsqu.png</picture>
-				<price>70 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Еще одна эксклюзивная работа от наших мастеров, письменный стол "Black Bean". Столешница выполнена из массива черного дерева (американский орех), все природные неровности на поверхности столешницы пролиты эпоксидной смолой для создания идеально гладкой плоскости. Перед тем как нанести финишный слой водного лака для прочности покрытия, столешница прошла несколько стадий ручной шлифовки. Времяпрепровождение за таким объектом сделает работу в радость! Толщина столешницы составляет около 40 мм. Опора металлическая. Высота готового изделия 765 мм.</description>
-			</offer>
-			<offer id="0833" available="true">
-				<name>Письменный стол "Simple"</name>
-				<categoryId>6</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/aec/244_244_0/y5q3qfuxwp17120t0glwr93q2r1vfkxc.png</picture>
-				<price>63 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Казалось бы, все просто, всего на всего деревянная доска, но как она роскошно смотрится в законченном виде. Красота в простоте! За основу изделия взят слэб массива карагача, который прошел несколько этапов фрезеровки, ручной шлифовки и полировки. Все природные неровности и сучки пролиты эпоксидной смолой для получения идеально ровной поверхности, которая готова дарить вам теплые эмоции при прикосновениях и делать ваш рабочий процесс более приятным. Основание сделано из металла и окрашено в черный цвет. Возможно изготовление под заказ по всем индивидуальным пожеланиям.</description>
-			</offer>
-			<offer id="0822" available="true">
-				<name>Письменный стол эксклюзивной серии</name>
-				<categoryId>17</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f86/244_244_0/8cn4066ttmh8rgh2nta2nlr3u24se1ei.png</picture>
-				<price>145 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Стол из слэба карагача в обрамлении черной эпоксидной смолой в минималистическом стиле будет настоящей изюминкой вашего кабинета. С двумя ящиками, система открывания Tip-on. Высота стола 75 см. Толщина столешницы 40 мм.</description>
-			</offer>
-			<offer id="0835" available="true">
-				<name>Письменный стол из массива карагача</name>
-				<categoryId>6</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/b9e/244_244_0/9zg9hanw5i8jg4l2pjqkjy4b0wc6p593.png</picture>
-				<price>105 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Очередной великолепный и стильный письменный стол от нашей команды мастеров. Изделие полностью изготовленно из массива карагача (горный вяз). За основу мы взяли две заготовки которые прекрасно сочетаются друг с другом и обладают очень красивым древесным рисунком. Стол оборудован двумя выдвижными ящиками для удобства работы, фасады которых украшены вырезанным рисунком. Каждая деталь прошла несколько стадий ручной шлифовки, финишное покрытие выполнено полиуретановым лаком. Толщина столешницы составляет 35 мм. Возможно изготовление под заказ с соблюдением всех ваших пожеланий.</description>
-			</offer>
-			<offer id="0836" available="true">
-				<name>Письменный стол "Smoke"</name>
-				<categoryId>6</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/30c/244_244_0/j4h4ln3gxy8qm6cf4um8k5qbxyoygafm.png</picture>
-				<price>120 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Вашему вниманию представлена еще одна эксклюзивная модель письменного стола от нашей команды мастеров, великолепный стол "Smoke". За основу изделия мы взяли заготовку карагача, как следует поработали с ней и в конце получили восхитительное изделие. Края столешницы, а так же все трещинки и сучки данной заготовки мы пролили эпоксидной смолой, чтобы поверхность идеально ровной, и притягивала взгляды снова и снова. Финишное покрытие сделано полиуретановым лаком и прошло несколько стадий ручной полировки. Выдвижные ящики оборудованы фурнитурой высокого качества, открывание нажатием. Высота изделия составляет 75 см. Возможно изготовление под заказ по индивидуальным размерам.</description>
-			</offer>
-			<offer id="0254" available="true">
-				<name>Обеденный стол из массива "Black"</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/fc6/244_244_0/bviiti9cw07w6zvfz4w32tel0abkrjsf.png</picture>
-				<price>50 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Стол изготовлен из массива горного вяза. Финишное покрытие выполнено черной тонировкой в сочетании с полиуретановым лаком. Толщина столешницы составляет 35 мм. На поверхности столешницы присутствует оригинальный древесный рисунок. Возможно изготовление под заказ.</description>
-			</offer>
-			<offer id="0230" available="true">
-				<name>Стол обеденный оригинальный</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/02c/244_244_0/aeyj9nhvqkfcsnve13datp4oiv5mskuf.png</picture>
-				<price>54 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Интересный, необычный стол с красной заливкой смолой. Устойчивый и компактный  для небольшой кухнми. Ножки из дерева с декором из смолы.</description>
-			</offer>
-			<offer id="0214" available="true">
-				<name>Стол "Река" с темно-синей смолой</name>
-				<categoryId>11</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/c66/244_244_0/a05uslrql0axq6qodkj6quc38jvatari.png</picture>
-				<price>57 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Лаконичный и оригинальный! Обеденный стол из серии " Река" из карагача. Толщина столешницы 30 мм. Высота стола регулируется от 74 до 75 см.</description>
-			</offer>
-			<offer id="0281" available="true">
-				<name>Стол с рисунком из смолы</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f53/244_244_0/osssedmcfylkqs0d8r7lrqlel0nmbj7z.png</picture>
-				<price>47 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Обеденный стол  из пламенной березы с орнаментом из смолы. И новыми декоративными металлическими ножками.</description>
-			</offer>
-			<offer id="0256" available="true">
-				<name>Обеденный стол для баров и ресторанов</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/b21/244_244_0/yggi93q3naqnu20fmraag9j71qbyei5e.png</picture>
-				<price>34  000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Стол изготовлен из массива горного вяза. Посередине столешницы проходит оригинальная заливка эпоксидной смолой с эффектом перламутра. Основание выполнено из металла, возможны различные исполнения. Цвет подстолья может быть различным. Изделие отлично подойдет для концепции баров и ресторанов. Изделие можно изготовить по индивидуальным пожеланиям в различных цветовых оттенках. При комплексном заказе предусмотрена скидка!!!</description>
-			</offer>
-			<offer id="0288" available="true">
-				<name>Большой стол из карагача "Река"</name>
-				<categoryId>13</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/60d/244_244_0/nzu4kebchd54rdh40rjtia3biwearec0.png</picture>
-				<price>102 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Новое изделие - обеденный стол "река" из карагача с синей рекой, станет отличным дополнением к интерьеру загородного дома или квартиры.</description>
-			</offer>
-			<offer id="0224" available="true">
-				<name>Стол из тополя в заливке смолой</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/59d/244_244_0/tzmxqma6awa49umyaaigo38li6xbcmb2.png</picture>
-				<price>128 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Шикарный обеденный стол из спила тополя, полностью залитый синей эпоксидной смолой. Толщина столешницы 38 мм.  Новое оригинальное и удобное подстолье из металла.</description>
-			</offer>
-			<offer id="0201" available="true">
-				<name>Обеденный стол из тополя «Река»</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/dbd/244_244_0/mguo7tyxa31ntkxrcan08zt3wa1kj202.png</picture>
-				<price>70 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Новый обеденный стол из тополя с двумя реками на новом подстолье. Изящные линии тополя прекрасно сочетаются с янтарной эпоксидной рекой, создавая при этом неповторимую композицию, которая отлично подойдет для обеденных помещений в современном стиле и в стиле лофт.</description>
-			</offer>
-			<offer id="0237" available="true">
-				<name>Обеденный стол из массива</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/933/244_244_0/nkt1bloukx0pdxsa0c5caf7lmehf7gds.png</picture>
-				<price>45 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Круглый обеденный стол из массива карагача. Столешница изготовлена из сращенных ламелей в оригинальных серых тонах. Толщина столешницы 43 мм. Подстолье выполнено из металла и покрашено в цвет столешницы.</description>
-			</offer>
-			<offer id="0207" available="true">
-				<name>Уникальный обеденный стол из тополя</name>
-				<categoryId>13</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/5e6/244_244_0/n3fampgsjkhpfk9a9h53qcts4g1536wa.png</picture>
-				<price>162 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Новый уникальный авторский стол из слэбов тополя на металлическом подстолье. Эксклюзивная работа наших мастеров никого не оставит равнодушным. Стол в единственном экземпляре. Финишное покрытие стола выполнено лаком. Возможно изготовление на заказ по индивидуальным размерам.</description>
-			</offer>
-			<offer id="0205" available="true">
-				<name>Обеденный стол из ивы</name>
-				<categoryId>13</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/93d/244_244_0/4dyzzyu5eg6lyiexsydnjovhe2xjtfco.png</picture>
-				<price>192 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Новый уникальный обеденный стол из ивы на металлическом подстолье. Стол имеет две полупрозрачные реки, с бирюзовым оттенком. Стол хорошо подойдет для больших обеденных помещений. Возможно изготовление на заказ по индивидуальным размерам.</description>
-			</offer>
-			<offer id="0239" available="true">
-				<name>Обеденный стол с эпоксидной смолой</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/a2e/244_244_0/8laamop1gassxsx449y7w3hg3zomlpe4.png</picture>
-				<price>63 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Обеденный стол из ламелей карагача залитых прозрачной эпоксидной смолой станет уникальным элементом декора вашей столовой группы. Возможно изготовление по индивидуальным размерам.</description>
-			</offer>
-			<offer id="0221" available="true">
-				<name>Спил тополя в прозрачной заливке смолой</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/33d/244_244_0/69a85f6w8dpt270h0mvfmnn85ogc4b66.png</picture>
-				<price>126 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Шикарный обеденный стол из спила тополя, полностью залитый прозрачной эпоксидной смолой. Толщина столешницы 38 мм.</description>
-			</offer>
-			<offer id="0246" available="true">
-				<name>Стол обеденный из массива тополя</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/3a5/244_244_0/f5q13jb5ne2iijvo1557jm1tmdg8oyyy.png</picture>
-				<price>102 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Эксклюзивный обеденный стол в сочетании эпоксидной смолы и массива тополя. Финишное покрытие выполнено полиуретановым лаком. Подстолье металлическое. Высота изделия 75 см. Возможно изготовление под заказ по индивидуальным размерам.</description>
-			</offer>
-			<offer id="0287" available="true">
-				<name>Обеденный столик из чёрного американского ореха</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/689/244_244_0/i8h5d7qssqc8n7lg0r15iv21bc30i1kb.png</picture>
-				<price>71 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Небольшой обеденный столик из черного американского ореха станет отличным приобретением для тех, кто следит за тенденциями дизайнерской мебели!</description>
-			</offer>
-			<offer id="0902" available="true">
-				<name>Столешница под раковину</name>
-				<categoryId>2</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/406/244_244_0/ltnxopabtlgv9ah1pzqqnp34dop663be.png</picture>
-				<price>40 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Столешница в ванную из карагача с заливкой эпоксидной смолой янтарного цвета. Толщина столешницы 60 мм.</description>
-			</offer>
-			<offer id="0901" available="true">
-				<name>Столешница из карагача</name>
-				<categoryId>2</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/69a/244_244_0/zc11p145uejtb918d4hqup7dsd4wt15l.png</picture>
-				<price>22 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Цельная столешница из слэба карагача в ванную комнату под раковину или в качестве полочки. Толщина изделия 65 мм.</description>
-			</offer>
-			<offer id="0905" available="true">
-				<name>Столешница под раковину со смолой</name>
-				<categoryId>15</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f4d/244_244_0/ouzfbn8xe8d9ug1yney5bl4p174d3nn3.png</picture>
-				<price>30 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Красивая оригинальная столешница из цельного слэба карагача с яркой заливкой бирюзовой смолой. Толщина столешницы 40 мм. Цвет дерева с серым оттенком.</description>
-			</offer>
-			<offer id="0613" available="true">
-				<name>Тумба из массива и мдф</name>
-				<categoryId>8</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/055/244_244_0/mlx35iqm775kgfl4px17c7dvb402dbb2.png</picture>
-				<price>75 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Дизайнерская тумба в сочетании массива карагача и ламинированного мдф, отлично подойдет для гостиной комнаты, станет красивым и удобным дополнением к Вашему интерьеру. Тумба имеет возможность изменение по длине за счет подвижной части с ящиками. Возможно изготовление на заказ по индивидуальным размерам.</description>
-			</offer>
-			<offer id="0623" available="true">
-				<name>Прикроватные тумбы из массива</name>
+			<offer id="0729" available="true">
+				<name>Зеркало "Классика"</name>
 				<categoryId>16</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f34/244_244_0/frw783c2s6pnl9ximtwr990sls1gsh3q.png</picture>
-				<price>55 000 </price>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/8b4/244_244_0/fgk7jpkifx8e09wn2fa4rajrk1t11i6l.png</picture>
+				<price>14500</price>
 				<currencyId>RUB</currencyId>
-				<description>Комплект прикроватных тумб выполнен из массива горного вяза, поверхность изделий имеет роскошный древесный рисунок. Выдвижной ящик оборудован фурнитурой Blum с механизмом Tip-On. Высота корпуса тумбы составляет 150 мм. Основание тумб выполнено из металла и окрашено порошковым покрытием (мелкозернистая фракция). Стоимость одной тумбы 55 000 руб. Возможно изготовление в различных тонировках древесины.</description>
+				<description>Стильное зеркало в раме из карагача под любой интерьер.</description>
 			</offer>
-			<offer id="0625" available="true">
-				<name>Тумба в сочетании массива и шпонированного МДФ</name>
-				<categoryId>16</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/940/244_244_0/eeaym82zpeutpscdxg4j10ev9q0ir4qj.png</picture>
-				<price>78 000 </price>
+			<offer id="0746" available="true">
+				<name>Зеркало в раме из карагача</name>
+				<categoryId>4</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/d1d/244_244_0/qlq3e0fxmyb38i5v0l81kl4x30qobjqy.png</picture>
+				<price>20000</price>
 				<currencyId>RUB</currencyId>
-				<description>Корпус тумбы изготовлен из шпонированного МДФ, фасады и крышка из массива горного вяза. При изготовлении крышки применялся цельный слэб на поверхности которого играет буйный древесный рисунок, так же на поверхности столешницы имеется очень красивый фрагмент, наши мастера пролили его прозрачной смолой, чтобы вы своим глазом могли любоваться красотой природы. Тонировка выполнена экологически чистыми маслами. Возможно изготовление под заказ, по индивидуальным пожеланиям, конфигурация изделия может быть различной.</description>
+				<description>Красивое большое зеркало в раме из слэбов карагача. Возможно использовать зеркало горизонтально или вертикально любой стороной, петли с обратной стороны на всех 4 углах.</description>
 			</offer>
-			<offer id="0628" available="true">
-				<name>Винный шкаф из массива Американского Ореха</name>
-				<categoryId>16</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/7b2/244_244_0/ju53awkwa1cxq6em7cls8ghuwo6y4avh.png</picture>
-				<price>220 000 </price>
+			<offer id="0747" available="true">
+				<name>Зеркало в раме из карагача</name>
+				<categoryId>4</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/e81/244_244_0/jy96mcj95ff611tpikja079n8l2htc9y.png</picture>
+				<price>19000</price>
 				<currencyId>RUB</currencyId>
-				<description>Еще одна эксклюзивная работа от наших мастеров, винный шкаф из массива Американского ореха (черное дерево), в сочетании с темной эпоксидной смолой. При изготовлении фасадов применялся очень редкий и оригинальный материал. Лицевая сторона изделия выглядит просто потрясающее и притягивает взгляд снова и снова. Все детали изделия прошли несколько стадий ручной шлифовки и полировки. Внутри шкафа вы найдете для себя все необходимое для размещения вашего кухонного сервиза и напитков. Финишное покрытие выполнено полиуретановым лаком для придания дополнительной прочности поверхности изделия. Габарит шкафа: 150 см, длина 90 см, глубина изделия 53 см. Открывание фасадов осуществляется нажатием, механизм push to open. Основание данной модели возможно сделать под заказ по вашим индивидуальным пожеланиям.</description>
+				<description>Красивое зеркало в раме из каповых слэбов карагача. Возможно использовать зеркало горизонтально или вертикально любой стороной, петли с обратной стороны на всех 4 углах.</description>
 			</offer>
-			<offer id="0834" available="true">
-				<name>Тумба "Тexture"</name>
-				<categoryId>16</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/d9c/244_244_0/4lzuslsin78q3qbnhrqeqdnch6k18a4q.png</picture>
-				<price>63 000 </price>
+			<offer id="0742" available="true">
+				<name>Зеркало в раме из массива карагача</name>
+				<categoryId>4</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/391/244_244_0/wwhvuib4k6cs2nkfknrfe7xxd0gowfce.png</picture>
+				<price>30000</price>
 				<currencyId>RUB</currencyId>
-				<description>Закончена работа над еще одним нашим изделием, представляем вашему вниманию ТВ тумбу "Тexture". Корпус изделия изготовлен из шпонированного МДФ, а изюминкой являются фасады. На поверхности МДФ мы вырезали объемный и очень фактурный рисунок, который великолепно смотрится в живую!!! Фасады были профессионально окрашены эмалью высокого качества, а детали корпуса вскрыты экологически чистым маслом. Тумба оснащена высококачественной фурнитурой, открывание нажатием. Возможно изготовление под заказ по индивидуальным пожеланиям.</description>
+				<description>Большое круглое зеркало в раме из массива карагача. Ширина рамы 77 мм. Вставка из эпоксидной смолы.</description>
 			</offer>
-			<offer id="0636" available="true">
-				<name>Тумба "Comfortable"</name>
-				<categoryId>16</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/ebd/244_244_0/ezcvp9bol8nuijrslxs1r3mbg83x5c1f.png</picture>
-				<price>59 000 </price>
+			<offer id="0760" available="true">
+				<name>Часы с эпоксидной смолой</name>
+				<categoryId>4</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/7a2/244_244_0/wjk84hksdu1gvrgv3f1erndvzl1mm606.png</picture>
+				<price>4200</price>
 				<currencyId>RUB</currencyId>
-				<description>Тумба изготовлена из массива карагача в сочетании крашенного мдф и оборудовано выдвижным ящиком, который оснащен фурнитурой марки "Blum". Детали из массива имеют округлые формы, что придает определенного шарма изделию, покрыты экологически чистым маслом немецкого производителя и идеально отшлифованы. Толщина столешницы составляет 40мм.</description>
+				<description>Декоративные часы из массива карагача с эпоксидной смолой. Изделие оснащено часовым механизмом плавного хода. Возможно изготовление под заказ в различной цветовой гамме.</description>
 			</offer>
-			<offer id="0254" available="true">
-				<name>Обеденный стол из массива "Black"</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/fc6/244_244_0/bviiti9cw07w6zvfz4w32tel0abkrjsf.png</picture>
-				<price>50 000 </price>
+			<offer id="0766" available="true">
+				<name>Часы "Галактика"</name>
+				<categoryId>4</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/861/244_244_0/9724wriy91w1p77nuwtphedb3at1svxd.jpeg</picture>
+				<price>4200</price>
 				<currencyId>RUB</currencyId>
-				<description>Стол изготовлен из массива горного вяза. Финишное покрытие выполнено черной тонировкой в сочетании с полиуретановым лаком. Толщина столешницы составляет 35 мм. На поверхности столешницы присутствует оригинальный древесный рисунок. Возможно изготовление под заказ.</description>
+				<description>Часы изготовлены из МДФ в сочетании с черной глянцевой покраской. Диаметр изделия 45 см.</description>
 			</offer>
-			<offer id="0230" available="true">
-				<name>Стол обеденный оригинальный</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/02c/244_244_0/aeyj9nhvqkfcsnve13datp4oiv5mskuf.png</picture>
-				<price>54 000 </price>
+			<offer id="0765" available="true">
+				<name>Панно из массива тополя с эпоксидной смолой</name>
+				<categoryId>4</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/aac/244_244_0/xrzcxuugh2ywwgtik6ihpz7ynag5ux40.jpg</picture>
+				<price>13000</price>
 				<currencyId>RUB</currencyId>
-				<description>Интересный, необычный стол с красной заливкой смолой. Устойчивый и компактный  для небольшой кухнми. Ножки из дерева с декором из смолы.</description>
+				<description>Декоративное настенное пано выполнено из массива капового тополя в сочетании с эпоксидной смолой синего цвета. Рамка изделия изготовлена из термодревесины. Пано украсит собой вашу зону отдыха, а уникальные древесные линии изделия дадут ощущение сближения с природой. Возможно изготовление под заказ по индивидуальным размерам, цвет эпоксидной смолы может быть различным.</description>
 			</offer>
-			<offer id="0214" available="true">
-				<name>Стол "Река" с темно-синей смолой</name>
-				<categoryId>11</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/c66/244_244_0/a05uslrql0axq6qodkj6quc38jvatari.png</picture>
-				<price>57 000 </price>
+			<offer id="0769" available="true">
+				<name>Часы из массива в металлической рамке</name>
+				<categoryId>4</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/ef5/244_244_0/xh9jlg1vel8vlkq020kjmm83wn823ryz.png</picture>
+				<price>5500-6500</price>
 				<currencyId>RUB</currencyId>
-				<description>Лаконичный и оригинальный! Обеденный стол из серии " Река" из карагача. Толщина столешницы 30 мм. Высота стола регулируется от 74 до 75 см.</description>
+				<description>Оригинальная модель настенных часов из может быть выполнена из заготовки массива горного вяза либо ореха. По периметру часов, по мимо круглой рамки, из металлического профиля может быть легкий круг из металлической полосы. Наличие моделей уточняйте у наших менеджеров. Возможно изготовление под заказ по вашим индивидуальным пожеланиям.</description>
 			</offer>
-			<offer id="0281" available="true">
-				<name>Стол с рисунком из смолы</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f53/244_244_0/osssedmcfylkqs0d8r7lrqlel0nmbj7z.png</picture>
-				<price>47 000 </price>
+			<offer id="0768" available="true">
+				<name>Часы из массива в сочетании с эпоксидной смолой</name>
+				<categoryId>4</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/4d6/244_244_0/kxbe7ijmwikifgt2vpsoj3ddoajzo0gm.png</picture>
+				<price>9500</price>
 				<currencyId>RUB</currencyId>
-				<description>Обеденный стол  из пламенной березы с орнаментом из смолы. И новыми декоративными металлическими ножками.</description>
+				<description>Данное изделие выполнено из эксклюзивной заготовки капового тополя в сочетании с эпоксидной смолой янтарного оттенка. Часы оснащены механизмом плавного хода.</description>
 			</offer>
-			<offer id="0256" available="true">
-				<name>Обеденный стол для баров и ресторанов</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/b21/244_244_0/yggi93q3naqnu20fmraag9j71qbyei5e.png</picture>
-				<price>34  000 </price>
+			<offer id="0767" available="true">
+				<name>Авторские часы из массива тополя с эпоксидной смолой</name>
+				<categoryId>4</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/4a6/244_244_0/kcp3mvlq9qjfzi9btocey3a3mxa97kpi.png</picture>
+				<price>10900</price>
 				<currencyId>RUB</currencyId>
-				<description>Стол изготовлен из массива горного вяза. Посередине столешницы проходит оригинальная заливка эпоксидной смолой с эффектом перламутра. Основание выполнено из металла, возможны различные исполнения. Цвет подстолья может быть различным. Изделие отлично подойдет для концепции баров и ресторанов. Изделие можно изготовить по индивидуальным пожеланиям в различных цветовых оттенках. При комплексном заказе предусмотрена скидка!!!</description>
+				<description>Изделие выполнено из заготовки капового тополя в сочетании с эпоксидной смолой. Возможно изготовление под заказ в различной цветовой гамме, форма так же может быть различной. Часовой механизм плавного хода.</description>
 			</offer>
-			<offer id="0288" available="true">
-				<name>Большой стол из карагача "Река"</name>
-				<categoryId>13</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/60d/244_244_0/nzu4kebchd54rdh40rjtia3biwearec0.png</picture>
-				<price>102 000 </price>
+			<offer id="0771" available="true">
+				<name>Эксклюзивные часы из массива в сочетании с эпоксидной смолой</name>
+				<categoryId>4</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f9d/244_244_0/qhjxu221mnsm5fuqftasdljsnqkwcq3f.png</picture>
+				<price>6000</price>
 				<currencyId>RUB</currencyId>
-				<description>Новое изделие - обеденный стол "река" из карагача с синей рекой, станет отличным дополнением к интерьеру загородного дома или квартиры.</description>
+				<description>Эксклюзивные модели настенных часов выполнены из массива горного вяза (карагач) в сочетании с эпоксидной смолой. Данное изделие придаст вашему пространству новых красок и станет настоящей изюменкой вашего пространства. Возможно изготовление под заказ в различной цветовой гамме. Наличие моделей уточняйте у наших менеджеров.</description>
 			</offer>
-			<offer id="0224" available="true">
-				<name>Стол из тополя в заливке смолой</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/59d/244_244_0/tzmxqma6awa49umyaaigo38li6xbcmb2.png</picture>
-				<price>128 000 </price>
+			<offer id="0770" available="true">
+				<name>Авторские часы из массива на ваш выбор</name>
+				<categoryId>4</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/d68/244_244_0/3kkab03agwrow8htwuyh5y5hilcc8n3q.png</picture>
+				<price>5000-6000</price>
 				<currencyId>RUB</currencyId>
-				<description>Шикарный обеденный стол из спила тополя, полностью залитый синей эпоксидной смолой. Толщина столешницы 38 мм.  Новое оригинальное и удобное подстолье из металла.</description>
+				<description>Оригинальная модель настенных часов из заготовки массива Американского ореха (Черное дерево) обрамленной рамкой из мдф. Так же возможно изготовление с применением массива Горного вяза (карагач), по примеру модели исполненной в светлых тонах. Часы украсят собой выше пространство и будут притягивать к себе внимание снова и снова. Наличие моделей можете уточнить у наших менеджеров.</description>
 			</offer>
-			<offer id="0201" available="true">
-				<name>Обеденный стол из тополя «Река»</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/dbd/244_244_0/mguo7tyxa31ntkxrcan08zt3wa1kj202.png</picture>
-				<price>70 000 </price>
+			<offer id="0773" available="true">
+				<name>Зеркало из массива горного вяза</name>
+				<categoryId>4</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/3d5/244_244_0/g3oqp9ali5rm4iijntjcb5rxc1iaye7m.png</picture>
+				<price>42000</price>
 				<currencyId>RUB</currencyId>
-				<description>Новый обеденный стол из тополя с двумя реками на новом подстолье. Изящные линии тополя прекрасно сочетаются с янтарной эпоксидной рекой, создавая при этом неповторимую композицию, которая отлично подойдет для обеденных помещений в современном стиле и в стиле лофт.</description>
+				<description>Оригинально зеркало в стиле "Река" из массива горного вяза/карагача. Габарит изделия составляет 210 х 100 см. Заготовки рамки идеально отшлифованы и отполированы. При тактильных прикосновениях дерево вам будет дарить тепло и только самые положительные эмоции. Возможно изготовление под заказ в различных цветовых оттенках и размерах.</description>
 			</offer>
-			<offer id="0237" available="true">
-				<name>Обеденный стол из массива</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/933/244_244_0/nkt1bloukx0pdxsa0c5caf7lmehf7gds.png</picture>
-				<price>45 000 </price>
+			<offer id="0772" available="true">
+				<name>Комплект кресел из массива в зону отдыха</name>
+				<categoryId>4</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/5a2/244_244_0/823036wcz6yy3pdc06628ll9659el2iw.png</picture>
 				<currencyId>RUB</currencyId>
-				<description>Круглый обеденный стол из массива карагача. Столешница изготовлена из сращенных ламелей в оригинальных серых тонах. Толщина столешницы 43 мм. Подстолье выполнено из металла и покрашено в цвет столешницы.</description>
-			</offer>
-			<offer id="0207" available="true">
-				<name>Уникальный обеденный стол из тополя</name>
-				<categoryId>13</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/5e6/244_244_0/n3fampgsjkhpfk9a9h53qcts4g1536wa.png</picture>
-				<price>162 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Новый уникальный авторский стол из слэбов тополя на металлическом подстолье. Эксклюзивная работа наших мастеров никого не оставит равнодушным. Стол в единственном экземпляре. Финишное покрытие стола выполнено лаком. Возможно изготовление на заказ по индивидуальным размерам.</description>
-			</offer>
-			<offer id="0205" available="true">
-				<name>Обеденный стол из ивы</name>
-				<categoryId>13</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/93d/244_244_0/4dyzzyu5eg6lyiexsydnjovhe2xjtfco.png</picture>
-				<price>192 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Новый уникальный обеденный стол из ивы на металлическом подстолье. Стол имеет две полупрозрачные реки, с бирюзовым оттенком. Стол хорошо подойдет для больших обеденных помещений. Возможно изготовление на заказ по индивидуальным размерам.</description>
-			</offer>
-			<offer id="0239" available="true">
-				<name>Обеденный стол с эпоксидной смолой</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/a2e/244_244_0/8laamop1gassxsx449y7w3hg3zomlpe4.png</picture>
-				<price>63 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Обеденный стол из ламелей карагача залитых прозрачной эпоксидной смолой станет уникальным элементом декора вашей столовой группы. Возможно изготовление по индивидуальным размерам.</description>
-			</offer>
-			<offer id="0221" available="true">
-				<name>Спил тополя в прозрачной заливке смолой</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/33d/244_244_0/69a85f6w8dpt270h0mvfmnn85ogc4b66.png</picture>
-				<price>126 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Шикарный обеденный стол из спила тополя, полностью залитый прозрачной эпоксидной смолой. Толщина столешницы 38 мм.</description>
-			</offer>
-			<offer id="0246" available="true">
-				<name>Стол обеденный из массива тополя</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/3a5/244_244_0/f5q13jb5ne2iijvo1557jm1tmdg8oyyy.png</picture>
-				<price>102 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Эксклюзивный обеденный стол в сочетании эпоксидной смолы и массива тополя. Финишное покрытие выполнено полиуретановым лаком. Подстолье металлическое. Высота изделия 75 см. Возможно изготовление под заказ по индивидуальным размерам.</description>
-			</offer>
-			<offer id="0287" available="true">
-				<name>Обеденный столик из чёрного американского ореха</name>
-				<categoryId>5</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/689/244_244_0/i8h5d7qssqc8n7lg0r15iv21bc30i1kb.png</picture>
-				<price>71 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Небольшой обеденный столик из черного американского ореха станет отличным приобретением для тех, кто следит за тенденциями дизайнерской мебели!</description>
+				<description>Данные комплект кресел можно назвать настоящим декоративным, эксклюзивным элементом вашей зоны отдыха. Изделия выполнены из массива карагача, ножки металлические. Конструктив изделия исполнен путем соединения между собой большого количества пятиугольных деталей, весь материал отбирался и обрабатывался вручную, далее была кропотливая работа по сборке, но результат оказался просто роскошным. В комплект к креслам идет мягкая накладка для осуществления более комфортной посадки, а так же журнальный столик с эпоксидной смолой в подобном стиле, его диаметр 60 см, основание изготовлено из металла. Возможны различные цветовые исполнения. Стоимость одного кресла 69 000 руб, стоимость столика 32 000 руб.</description>
 			</offer>
 			<offer id="0510" available="true">
 				<name>Эксклюзивная кровать из тополя с декоративными элементами из смолы</name>
-				<categoryId>9</categoryId>
+				<categoryId>2</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/bcb/244_244_0/midg4t7805okmgcdt3ep49x7i03orzxt.png</picture>
-				<price>По зап</price>
 				<currencyId>RUB</currencyId>
 				<description>Настоящий эксклюзив- кровать из тополя в эпоксидной смоле, янтарного цвета. Размер изголовья: ширина переменная от 82 до 67 см., длина 290 см. Изголовье возможно разместить на нужной высоте, подвешивается на стену.  Корпус кровати выполнен из массива тополя с элементами заливки смолой 180 х 200 см. В комплект возможно приобрести прикроватные тумбы, консоль с зеркалом и шкаф. В стоимость входит каркас кровати с ортопедическим основанием и изголовьем.</description>
 			</offer>
-			<offer id="0511" available="true">
-				<name>Кровать из МДФ с вставками из массива</name>
-				<categoryId>1</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/205/244_244_0/ph1urs58z2gxxpzsykoo03lc6mgkhuhv.jpg</picture>
-				<price>От 80 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Корпус кровати изготовлен из МДФ, основание ортопедическое. Высота основания под матрас 25 см. Изголовье выполнено из массива карагача в рамке из МДФ. Возможно изготовление под заказ по вашим габаритам. Прикроватные тумбы можно приобрести отдельно по стоимости от 24 000 руб. за штуку. (Арт. 0621).</description>
-			</offer>
-			<offer id="0512" available="true">
-				<name>Кровать из массива горного вяза</name>
-				<categoryId>1</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/b9c/244_244_0/3v92amvrgma1vb74usk4ozpeb705bszu.jpeg</picture>
-				<price>89 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Авторская кровать полностью выполнена из массива горного вяза. Основание ортопедическое и находится на высоте 25 см от пола. Кровать вскрыта экологически чистым маслом немецкой фирмы "Biofa", финишный слой сделан водным лаком для прочности покрытия. Возможно изготовление по индивидуальным размерам, цветовая гамма изделия может быть разной.</description>
-			</offer>
 			<offer id="0502" available="true">
 				<name>Кровать из карагача</name>
-				<categoryId>9</categoryId>
+				<categoryId>2</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/2ac/244_244_0/115krdmuqcem8fmiv8r9hqku9omr0yn0.jpg</picture>
-				<price>От 110 000 </price>
+				<price>110000</price>
 				<currencyId>RUB</currencyId>
 				<description>Кровать из карагача под заказ. Возможно изготовление основания кровати в 3-х размерах - 160х200 см; 180х200 см; 200х2000 см. Спинка (слэб) всегда уникален, длина варьируется от 160 до 300 см.</description>
 			</offer>
 			<offer id="0504" available="true">
 				<name>Кровать с подвесными тумбами</name>
-				<categoryId>9</categoryId>
+				<categoryId>2</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/bd8/244_244_0/lbu90j1hleo6lqqw0iqxwoy3ztn7fq20.jpg</picture>
-				<price>От 160 000 </price>
+				<price>160000</price>
 				<currencyId>RUB</currencyId>
 				<description>Кровать выполнена под заказ, тонирована в цвет "Мербау". Возможно изготовления под заказ аналогичной. Срок изготовления 30 рабочих дней.</description>
 			</offer>
 			<offer id="0506" available="true">
 				<name>Кровать со слэбом из тополя</name>
-				<categoryId>9</categoryId>
+				<categoryId>2</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/9ee/244_244_0/1gk8q8fdu3e12whabwhcqwa4wh1jbxas.jpg</picture>
-				<price>По зап</price>
 				<currencyId>RUB</currencyId>
 				<description>Эксклюзивная кровать из тополя с оригинальным изголовьем из слэба. Яркие заливки эпоксидной смолой, как завершающий штрих в вашем интерьере.</description>
 			</offer>
 			<offer id="0507" available="true">
 				<name>Кровать "Модерн"</name>
-				<categoryId>9</categoryId>
+				<categoryId>2</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/326/244_244_0/8sbieb0p34teg5ve3s3sfdz05qbv98o1.jpg</picture>
-				<price>По зап</price>
 				<currencyId>RUB</currencyId>
 				<description>Кровать под заказ из карагача в тонировке "тик". Интересное дизайнерское решение состыковки деталей. Под заказ в любом размере и цвете.</description>
 			</offer>
 			<offer id="0508" available="true">
 				<name>Авторская кровать с уникальным изголовьем</name>
-				<categoryId>9</categoryId>
+				<categoryId>2</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/b69/244_244_0/m1msbiifoqb622zgr3lfeni4ft7gedmh.jpg</picture>
-				<price>От 170 000 </price>
+				<price>170000</price>
 				<currencyId>RUB</currencyId>
 				<description>Любой размер кровати под заказ. Индивидуальный подбор изголовья кровати по вашему дизайну и размеру.</description>
 			</offer>
 			<offer id="0509" available="true">
 				<name>Кровать с изголовьем из слэба карагача</name>
-				<categoryId>9</categoryId>
+				<categoryId>2</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/2ef/244_244_0/4dmaqt6nwld7p860bqalzgytw7690rmo.png</picture>
-				<price>От 85 000 </price>
+				<price>85000</price>
 				<currencyId>RUB</currencyId>
 				<description>Стильная кровать с изголовьем из слэба карагача. Все трещинки и сучки на слэбе залиты прозрачной эпоксидной смолой. Размер изголовья: ширина переменная от 62 см. до 86 см., максимальная длина слэба 197 см. Размер основания кровати: 160 х 200 см. Каркас полностью выполнен из массива карагача. Ортопедическое основание. Слэб оснащен подсветкой холодного свечения. В комплект возможно приобрести комод и прикроватные тумбы, тонированные в единый цвет с кроватью.</description>
 			</offer>
-			<offer id="0513" available="true">
-				<name>Авторская кровать из массива дуба</name>
-				<categoryId>1</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/558/244_244_0/z1ao83sx6pa6vhkbzdqhurk01pl0rivb.png</picture>
-				<price>150 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Авторский спальный комплект из массива дуба от нашей команды мастеров. За основу всей композиции взят огромный слэб дуба. Подобные заготовки большая редкость, а если учесть, что он обладает множеством красивых природных элементов, то можно смело сказать: Это одна из жемчужин наших изделий!!! Основание кровати выполнено так же из дуба, все элементы изделий прошли несколько стадий шлифовки и полировки, все детали покрыты экологически чистым маслом. Кровать оснащена ортопедическим основанием. Стоимость кровати составляет 150 000 руб. Отличным дополнением к кровати будут прикроватные тумбы, они изготовлены так же из дуба в стилистике с кроватью. Стоимость одной тумбы составляет 30 000 руб.. Все возникающие вопросы Вы можете обсудить с нашими менеджерами.</description>
-			</offer>
-			<offer id="0514" available="true">
-				<name>Кровать с уникальным изголовьем из массива ореха</name>
-				<categoryId>1</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/7a2/244_244_0/l7467i7hzf4qq3abbzmzzrnd59k4i1jw.png</picture>
-				<price>93 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Вашему вниманию представлен уникальный спальный комплект от нашей команды мастеров. Детали кровати выполнены из шпонированного мдф (шпон дуба) и вскрыты экологически чистым маслом немецкого производите. Главной изюминкой комплекта является изголовье, именно здесь расположена самая красивая деталь, которая привлекает внимание снова и снова. Эксклюзивная заготовка американского ореха прошла несколько этапов ручной шлифовки и полировки, очень приятная при тактильных прикосновениях. Все природные неровности пролиты эпоксидной смолой. Изголовье так же оснащено подсветкой, которая может играть роль ночника. В комплект к кровати можно приобрести прикроватные тумбы в той же стилистике. Габарит тумбы составляет 400х450х460 мм. Стоимость одной тумбы составляет 27500 руб. Изделия могут быть сделаны в различных цветах и размерах. При заказе обращайтесь к нашим менеджерам.</description>
-			</offer>
 			<offer id="0288" available="true">
 				<name>Большой стол из карагача "Река"</name>
-				<categoryId>13</categoryId>
+				<categoryId>1</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/60d/244_244_0/nzu4kebchd54rdh40rjtia3biwearec0.png</picture>
-				<price>102 000 </price>
+				<price>102000</price>
 				<currencyId>RUB</currencyId>
 				<description>Новое изделие - обеденный стол "река" из карагача с синей рекой, станет отличным дополнением к интерьеру загородного дома или квартиры.</description>
 			</offer>
 			<offer id="0207" available="true">
 				<name>Уникальный обеденный стол из тополя</name>
-				<categoryId>13</categoryId>
+				<categoryId>1</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/5e6/244_244_0/n3fampgsjkhpfk9a9h53qcts4g1536wa.png</picture>
-				<price>162 000 </price>
+				<price>162000</price>
 				<currencyId>RUB</currencyId>
 				<description>Новый уникальный авторский стол из слэбов тополя на металлическом подстолье. Эксклюзивная работа наших мастеров никого не оставит равнодушным. Стол в единственном экземпляре. Финишное покрытие стола выполнено лаком. Возможно изготовление на заказ по индивидуальным размерам.</description>
 			</offer>
 			<offer id="0205" available="true">
 				<name>Обеденный стол из ивы</name>
-				<categoryId>13</categoryId>
+				<categoryId>1</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/93d/244_244_0/4dyzzyu5eg6lyiexsydnjovhe2xjtfco.png</picture>
-				<price>192 000 </price>
+				<price>192000</price>
 				<currencyId>RUB</currencyId>
 				<description>Новый уникальный обеденный стол из ивы на металлическом подстолье. Стол имеет две полупрозрачные реки, с бирюзовым оттенком. Стол хорошо подойдет для больших обеденных помещений. Возможно изготовление на заказ по индивидуальным размерам.</description>
 			</offer>
 			<offer id="0286" available="true">
 				<name>Обеденный стол из массива акации "Red forest"</name>
-				<categoryId>13</categoryId>
+				<categoryId>1</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/cb3/244_244_0/ql8ho3lt988zl001kbo1js0xgc6epjqy.png</picture>
-				<price>114 000 </price>
+				<price>114000</price>
 				<currencyId>RUB</currencyId>
 				<description>Большой обеденный стол из массива розовой акации в сочетании с черной эпоксидной смолой с эффектом перламутра. Толщина столешницы составляет 40 мм. Финишное покрытие выполнено экологически чистым прозрачным маслом, идеально отшлифовано и отполировано. Авторское металлическое основание для данной модели изготовлено из металла и покрыто эмалью в цветовой гамме "Графит". Высота стола составляет 74 см.</description>
 			</offer>
 			<offer id="0234" available="true">
 				<name>Обеденный стол "French gray"</name>
-				<categoryId>13</categoryId>
+				<categoryId>1</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/620/244_244_0/79qblvwv7zmr9ksdkp6cah0m0sv929ds.png</picture>
-				<price>126 000 </price>
+				<price>126000</price>
 				<currencyId>RUB</currencyId>
 				<description>Уникальный обеденный стол в сочетании массива карагача и эпоксидной смолы светло-темного оттенка. Поверхность столешницы имеет идеально гладкое покрытие, очень приятное по тактильным ощущениям. Финишное покрытие выполнено полиуретановым лаком. Основание данной модели изготовлено из металла и окрашено в черный цвет</description>
 			</offer>
+			<offer id="1014" available="true">
+				<name>Дверь для шкафа-купе</name>
+				<categoryId>10</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/08a/244_244_0/dou2mpqy7uk3eg5slh29jv3kknmfi043.png</picture>
+				<currencyId>RUB</currencyId>
+				<description>Изготавливаем двери для шкафов-купе разных размеров и моделей под заказ.</description>
+			</offer>
+			<offer id="1013" available="true">
+				<name>Большая амбарная дверь из карагача</name>
+				<categoryId>10</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/13e/244_244_0/d1ylad6lc8ahv12co7me1rm3ys86jh84.png</picture>
+				<currencyId>RUB</currencyId>
+				<description>Большая амбарная дверь из клеенного карагача с натуральным, природным краем.</description>
+			</offer>
+			<offer id="1012" available="true">
+				<name>Двери лофт</name>
+				<categoryId>10</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f18/244_244_0/8aqwai7psh0u1s2tbsahnwvijh2vd725.png</picture>
+				<currencyId>RUB</currencyId>
+				<description>Двери в стиле лофт с заливками эпоксидной смолой. Возможно изготовление под заказ в любых размерах.</description>
+			</offer>
+			<offer id="1011" available="true">
+				<name>Амбарная дверь из карагача</name>
+				<categoryId>10</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/395/244_244_0/avv5ow1zge81o3f2gkgwcgad3ufoln5s.png</picture>
+				<currencyId>RUB</currencyId>
+				<description>Дверь из клеенного массива карагача.</description>
+			</offer>
+			<offer id="1010" available="true">
+				<name>Дверь "Река"</name>
+				<categoryId>10</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/bc1/244_244_0/qe1lts1kyhrr2cpgib49e32hwalrp95v.png</picture>
+				<currencyId>RUB</currencyId>
+				<description>Изготавливаем амбарные двери по индивидуальным размерам под заказ.</description>
+			</offer>
 			<offer id="1107" available="true">
 				<name>Барная столешница из карагача в прозрачной смоле</name>
-				<categoryId>7</categoryId>
+				<categoryId>15</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/a9e/244_244_0/4fnrt1d0faqma8npuu0qhppwp8ml8rst.png</picture>
-				<price>81 000 </price>
+				<price>81000</price>
 				<currencyId>RUB</currencyId>
 				<description>Столешница из карагача в прозрачной смоле. Толщина столешницы 35 мм. На светлой стороне столешницы не нанесен финишный слой покрытия (тонировка), что дает вам возможность при заказе выбрать подходящий цвет.</description>
 			</offer>
 			<offer id="0402" available="true">
 				<name>Столешница для барной стойки</name>
-				<categoryId>11</categoryId>
+				<categoryId>5</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/505/244_244_0/4bua9qeztgz9p502d6fzk5iec3atwh6h.png</picture>
-				<price>46 000 </price>
+				<price>46000</price>
 				<currencyId>RUB</currencyId>
 				<description>Идеальная столешница из карагача для барной стойки: брутальная, большая толщина дерева, элемент стекла для декора.  Цена указана за столешницу, возможно изготовление любого подстолья под ваш размер. На фото основание представлено для примера.</description>
 			</offer>
 			<offer id="0405" available="true">
 				<name>Барный комплект из массива карагача</name>
-				<categoryId>7</categoryId>
+				<categoryId>15</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/bc6/244_244_0/acngpbavr31zlb39lnbzkd43cew5chca.png</picture>
-				<price>90 000 </price>
+				<price>90000</price>
 				<currencyId>RUB</currencyId>
 				<description>Барная стойка в комплекте с двумя стульями выполнена из массива карагача. Края стойки с неповторимыми природными неровностями в совокупности с уникальным древесным рисунком не оставят равнодушным не один взгляд. Возможно изготовление по индивидуальным размерам в различной цветовой гамме древесины.</description>
 			</offer>
 			<offer id="0406" available="true">
 				<name>Барный комплект "Smoke"</name>
-				<categoryId>7</categoryId>
+				<categoryId>15</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f1b/244_244_0/h4bqyi0xff7mthww9607k3j73k86zjsn.png</picture>
-				<price>83 000 </price>
+				<price>83000</price>
 				<currencyId>RUB</currencyId>
 				<description>Изделие выполнено из массива карагача в сочетании с эпоксидной смолой. Оригинальные фрагменты заливки и древесного рисунка делают столешницу по настоящему уникальной. В комплекте идут два оригинальных барных стула из массива. Возможно изготовление под заказ в различных цветовых оттенках.</description>
 			</offer>
 			<offer id="0408" available="true">
 				<name>Барный стол из серии "Waterfall"</name>
-				<categoryId>7</categoryId>
+				<categoryId>15</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/8dd/244_244_0/ubqckpvp80pt1ye7sufczezf9psef5fa.png</picture>
-				<price>По зап</price>
 				<currencyId>RUB</currencyId>
 				<description>Эксклюзивные барные столы от нашей команды мастеров из серии "Waterfall". Характерная особенность данной модели является деревянная опора, которая переходит в столешницу с соблюдением древесного рисунка и заливки эпоксидной смолы. Возможно изготовление из различного материала: карагач, американский орех, каповый тополь, акация. Цветовая гамма и габарит изделия могут быть различными.</description>
 			</offer>
 			<offer id="0407" available="true">
 				<name>Барный комплект "WooD"</name>
-				<categoryId>7</categoryId>
+				<categoryId>15</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/1ac/244_244_0/ur1etzri8u5citha6dxmse92wdxxadi4.png</picture>
-				<price>По зап</price>
 				<currencyId>RUB</currencyId>
 				<description>Еще одна эксклюзивная работа от наших мастеров, эксклюзивная барная стойка из массива горного вяза/карагача в комплекте с барными стульями в цвет стойки. При изготовлении данного изделия в работу была взята заготовка очень интересной природной формы, не часто природа нам подбрасывает настолько оригинальный материал, но не в этом случае!!! Стойка имеет очень эффектный вид и будет притягивать внимание снова и снова, финишное покрытие выполнено экологически чистыми маслами, идеально отшлифовано и отполировано, очень приятное по тактильным ощущениям. Все трещинки, сучки и природные неровности на поверхности столешницы пролиты эпоксидной смолой. Основание данной модели металлическое и окрашено черной эмалью.  Габарит стула: 40х40х81 см. Возможно изготовление под заказ по индивидуальным размерам.</description>
 			</offer>
 			<offer id="0410" available="true">
 				<name>Барная стойка из массива карагача</name>
-				<categoryId>7</categoryId>
+				<categoryId>15</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/5a0/244_244_0/iwlc41e18dixm4igsqgjssu78pw058fw.png</picture>
-				<price>52 000 </price>
+				<price>52000</price>
 				<currencyId>RUB</currencyId>
 				<description>За основу изделия была взята оригинальная заготовка массива карагача. Все природные очертания были полностью сохранены, потому что лучший художник - это природа! Тонировка столешницы была выполнена экологически чистым маслом немецкого производителя, финишный слой сделан полиуретановым лаком для стабилизации массива. После того как столешница прошла несколько стадий ручной шлифовки и полировки, поверхность стала идеальная гладкой и очень приятной по тактильным ощущениям. Изделие отлично дополнит собой вашу зону отдыха. Основание изготовлено из металла и окрашено в черный цвет. Возможно изготовление под заказ по индивидуальным размерам.</description>
 			</offer>
 			<offer id="0409" available="true">
 				<name>Барная стойка из массива горного вяза</name>
-				<categoryId>7</categoryId>
+				<categoryId>15</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/689/244_244_0/iyzwauyipl8b1ktmt1g9pm3iogxcacrp.png</picture>
-				<price>56 000 </price>
+				<price>56000</price>
 				<currencyId>RUB</currencyId>
 				<description>За основу изделия взят слэб горного вяза (карагач). Поверхность столешницы идеально гладкая по тактильным ощущениям, прошла несколько стадий ручной шлифовки и полировки. Тонировка древесины проводилась экологически чистым маслом немецкого производителя, финишный слой выполнен полиуретановым лаком европейского производителя. Основание изготовлено из металла и окрашено в черный цвет. Возможно изготовление под заказ по индивидуальным размерам.</description>
 			</offer>
-			<offer id="0214" available="true">
-				<name>Стол "Река" с темно-синей смолой</name>
-				<categoryId>11</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/c66/244_244_0/a05uslrql0axq6qodkj6quc38jvatari.png</picture>
-				<price>57 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Лаконичный и оригинальный! Обеденный стол из серии " Река" из карагача. Толщина столешницы 30 мм. Высота стола регулируется от 74 до 75 см.</description>
-			</offer>
-			<offer id="0266" available="true">
-				<name>Обеденный стол из массива карагача</name>
-				<categoryId>11</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/967/244_244_0/1srxu2hl8j0nbd8o8kryaxa9h9jkwjeq.png</picture>
-				<price>102 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Очередной дизайнерский стол из массива карагача на типовом основании из металла в стиле Loft от нашей команды мастеров. На поверхности столешницы бурлит древесный рисунок, отлично сочетаясь с вставкой из эпоксидной смолы коричневого оттенка. Древесина прошла несколько ступеней ручной обработки и полировки, каждое тактильное прикосновение будет вам дарить только самые положительные эмоции. Толщина столешницы составляет 48 мм. Возможно изготовление под заказ по индивидуальным размерам и предпочтениям.</description>
-			</offer>
-			<offer id="0402" available="true">
-				<name>Столешница для барной стойки</name>
-				<categoryId>11</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/505/244_244_0/4bua9qeztgz9p502d6fzk5iec3atwh6h.png</picture>
-				<price>46 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Идеальная столешница из карагача для барной стойки: брутальная, большая толщина дерева, элемент стекла для декора.  Цена указана за столешницу, возможно изготовление любого подстолья под ваш размер. На фото основание представлено для примера.</description>
-			</offer>
-			<offer id="0510" available="true">
-				<name>Эксклюзивная кровать из тополя с декоративными элементами из смолы</name>
-				<categoryId>9</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/bcb/244_244_0/midg4t7805okmgcdt3ep49x7i03orzxt.png</picture>
-				<price>По зап</price>
-				<currencyId>RUB</currencyId>
-				<description>Настоящий эксклюзив- кровать из тополя в эпоксидной смоле, янтарного цвета. Размер изголовья: ширина переменная от 82 до 67 см., длина 290 см. Изголовье возможно разместить на нужной высоте, подвешивается на стену.  Корпус кровати выполнен из массива тополя с элементами заливки смолой 180 х 200 см. В комплект возможно приобрести прикроватные тумбы, консоль с зеркалом и шкаф. В стоимость входит каркас кровати с ортопедическим основанием и изголовьем.</description>
-			</offer>
-			<offer id="0502" available="true">
-				<name>Кровать из карагача</name>
-				<categoryId>9</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/2ac/244_244_0/115krdmuqcem8fmiv8r9hqku9omr0yn0.jpg</picture>
-				<price>От 110 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Кровать из карагача под заказ. Возможно изготовление основания кровати в 3-х размерах - 160х200 см; 180х200 см; 200х2000 см. Спинка (слэб) всегда уникален, длина варьируется от 160 до 300 см.</description>
-			</offer>
-			<offer id="0504" available="true">
-				<name>Кровать с подвесными тумбами</name>
-				<categoryId>9</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/bd8/244_244_0/lbu90j1hleo6lqqw0iqxwoy3ztn7fq20.jpg</picture>
-				<price>От 160 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Кровать выполнена под заказ, тонирована в цвет "Мербау". Возможно изготовления под заказ аналогичной. Срок изготовления 30 рабочих дней.</description>
-			</offer>
-			<offer id="0506" available="true">
-				<name>Кровать со слэбом из тополя</name>
-				<categoryId>9</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/9ee/244_244_0/1gk8q8fdu3e12whabwhcqwa4wh1jbxas.jpg</picture>
-				<price>По зап</price>
-				<currencyId>RUB</currencyId>
-				<description>Эксклюзивная кровать из тополя с оригинальным изголовьем из слэба. Яркие заливки эпоксидной смолой, как завершающий штрих в вашем интерьере.</description>
-			</offer>
-			<offer id="0507" available="true">
-				<name>Кровать "Модерн"</name>
-				<categoryId>9</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/326/244_244_0/8sbieb0p34teg5ve3s3sfdz05qbv98o1.jpg</picture>
-				<price>По зап</price>
-				<currencyId>RUB</currencyId>
-				<description>Кровать под заказ из карагача в тонировке "тик". Интересное дизайнерское решение состыковки деталей. Под заказ в любом размере и цвете.</description>
-			</offer>
-			<offer id="0508" available="true">
-				<name>Авторская кровать с уникальным изголовьем</name>
-				<categoryId>9</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/b69/244_244_0/m1msbiifoqb622zgr3lfeni4ft7gedmh.jpg</picture>
-				<price>От 170 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Любой размер кровати под заказ. Индивидуальный подбор изголовья кровати по вашему дизайну и размеру.</description>
-			</offer>
-			<offer id="0509" available="true">
-				<name>Кровать с изголовьем из слэба карагача</name>
-				<categoryId>9</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/2ef/244_244_0/4dmaqt6nwld7p860bqalzgytw7690rmo.png</picture>
-				<price>От 85 000 </price>
-				<currencyId>RUB</currencyId>
-				<description>Стильная кровать с изголовьем из слэба карагача. Все трещинки и сучки на слэбе залиты прозрачной эпоксидной смолой. Размер изголовья: ширина переменная от 62 см. до 86 см., максимальная длина слэба 197 см. Размер основания кровати: 160 х 200 см. Каркас полностью выполнен из массива карагача. Ортопедическое основание. Слэб оснащен подсветкой холодного свечения. В комплект возможно приобрести комод и прикроватные тумбы, тонированные в единый цвет с кроватью.</description>
-			</offer>
 			<offer id="1108" available="true">
 				<name>Столешница из массива карагача</name>
-				<categoryId>4</categoryId>
+				<categoryId>14</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/866/244_244_0/xe1nezxs78jzeg8o4w6x1q0i3qdkvd3n.png</picture>
-				<price>57 000 </price>
+				<price>57000</price>
 				<currencyId>RUB</currencyId>
 				<description>Столешница выполнена из массива горного вяза в сочетании с эпоксидной смолой янтарного цвета. Толщина столешницы 50 мм.</description>
 			</offer>
 			<offer id="1104" available="true">
 				<name>Столешница из карагача с синей смолой</name>
-				<categoryId>4</categoryId>
+				<categoryId>14</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/1c5/244_244_0/nlbqz0slx2bmqnecer4lhlf4piemnhqt.jpg</picture>
-				<price>101 000 </price>
+				<price>101000</price>
 				<currencyId>RUB</currencyId>
 				<description>Красивая классическая столешница в стиле "река" из карагача. Толщина столешницы около 40 мм.</description>
 			</offer>
 			<offer id="1105" available="true">
 				<name>Столешница из ивы под большой стол</name>
-				<categoryId>4</categoryId>
+				<categoryId>14</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/a20/244_244_0/khenzsljer6jwtf3cib1f6elnhx2oo6w.jpg</picture>
-				<price>168 000 </price>
+				<price>168000</price>
 				<currencyId>RUB</currencyId>
 				<description>Яркая и необычная столешница из ивы с большим количеством капов. Неровный натуральный край дерева придает брутальность и эксклюзивность изделию.</description>
 			</offer>
 			<offer id="1114" available="true">
 				<name>Столешница из массива карагача с эпоксидной смолой</name>
-				<categoryId>4</categoryId>
+				<categoryId>14</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/e1d/244_244_0/3npuaspykjwuvpwkuttb07kfg0u9em3u.png</picture>
-				<price>65 000 </price>
+				<price>65000</price>
 				<currencyId>RUB</currencyId>
 				<description>Столешница выполнена из массива карагача с заливкой эпоксидной смолы голубого оттенка. Теплый цвет древесины привнесет в вашу зону идиллию и комфорт, а тактильные прикосновения подарят очень приятные ощущения. Толщина столешницы составляет 37 мм. Подстолье можно изготовить под заказ в исполнении из массива либо металла, окраска возможна в любой оттенок.</description>
 			</offer>
 			<offer id="1111" available="true">
 				<name>Обеденная столешница "Cherries"</name>
-				<categoryId>4</categoryId>
+				<categoryId>14</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f35/244_244_0/7ybk5tldabian7cyogqitx2cho6swjcg.png</picture>
-				<price>76 000 </price>
+				<price>76000</price>
 				<currencyId>RUB</currencyId>
 				<description>Готовая столешница в сочетании эпоксидной смолы и эксклюзивной заготовки массива черешни. Заливка выполнена в темной цветовой гамме, но через смолу вы можете увидеть всю красоту природы. Внутренние "берега" не проходили первоначальную обработку, заливка производилась вместе с корой, что смотрится очень необычно и красиво. Под данную модель подойдут различные модели оснований, за всей подробной информацией обращайтесь к нашим менеджерам.</description>
 			</offer>
 			<offer id="1115" available="true">
 				<name>Эксклюзивная столешница из массива акации</name>
-				<categoryId>4</categoryId>
+				<categoryId>14</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/864/244_244_0/2ozljfel8xjzvl8z6tdzbg6wapnaeoo7.png</picture>
-				<price>143 000 </price>
+				<price>143000</price>
 				<currencyId>RUB</currencyId>
 				<description>Эксклюзивная столешница из массива акации с эпоксидной смолой темного оттенка. Поверхность столешницы прошла несколько стадий ручной шлифовки и полировки. Финишный слой выполнен водным лаком который подчеркивает натуральный цвет древесины. По подбору основания для данной модели обращайтесь к нашим менеджерам.</description>
 			</offer>
 			<offer id="1117" available="true">
 				<name>Эксклюзивная столешница из массива капового тополя</name>
-				<categoryId>4</categoryId>
+				<categoryId>14</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/79c/244_244_0/qo6i6e49tbeb2xcpxv03iv4v80yqvuf4.jpg</picture>
-				<price>93 000 </price>
+				<price>93000</price>
 				<currencyId>RUB</currencyId>
 				<description>Вашему вниманию представлена великолепная столешница из массива капового тополя в сочетании с эпоксидной смолой синего оттенка. Уникальные природные формы изделия привлекают взгляд, будут дарить огромное количество положительных эмоций и чувство сближения с природой. Финишное покрытие сделано тонким слоем эпоксидной смолы. Толщина столешницы составляет 33 мм.</description>
+			</offer>
+			<offer id="0902" available="true">
+				<name>Столешница под раковину</name>
+				<categoryId>16</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/406/244_244_0/ltnxopabtlgv9ah1pzqqnp34dop663be.png</picture>
+				<price>40000</price>
+				<currencyId>RUB</currencyId>
+				<description>Столешница в ванную из карагача с заливкой эпоксидной смолой янтарного цвета. Толщина столешницы 60 мм.</description>
+			</offer>
+			<offer id="0901" available="true">
+				<name>Столешница из карагача</name>
+				<categoryId>16</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/69a/244_244_0/zc11p145uejtb918d4hqup7dsd4wt15l.png</picture>
+				<price>22000</price>
+				<currencyId>RUB</currencyId>
+				<description>Цельная столешница из слэба карагача в ванную комнату под раковину или в качестве полочки. Толщина изделия 65 мм.</description>
+			</offer>
+			<offer id="0905" available="true">
+				<name>Столешница под раковину со смолой</name>
+				<categoryId>17</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f4d/244_244_0/ouzfbn8xe8d9ug1yney5bl4p174d3nn3.png</picture>
+				<price>30000</price>
+				<currencyId>RUB</currencyId>
+				<description>Красивая оригинальная столешница из цельного слэба карагача с яркой заливкой бирюзовой смолой. Толщина столешницы 40 мм. Цвет дерева с серым оттенком.</description>
+			</offer>
+			<offer id="0816" available="true">
+				<name>Авторский письменный стол из ореха</name>
+				<categoryId>11</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/fd4/244_244_0/azusjllps52wf5t5x07dvy6yk3ihi3nv.png</picture>
+				<price>93000</price>
+				<currencyId>RUB</currencyId>
+				<description>Авторский письменный стол с выдвижным ящиком на магнитном механизме. Стол красив и эстетичен, подойдет для тех, кто уважает своё рабочее пространство. За таким столом приятно сидеть и удобно работать, он впишется в современный интерьер и будет не только мебелью, но и практичным инструментом.</description>
+			</offer>
+			<offer id="0822" available="true">
+				<name>Письменный стол эксклюзивной серии</name>
+				<categoryId>11</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f86/244_244_0/8cn4066ttmh8rgh2nta2nlr3u24se1ei.png</picture>
+				<price>145000</price>
+				<currencyId>RUB</currencyId>
+				<description>Стол из слэба карагача в обрамлении черной эпоксидной смолой в минималистическом стиле будет настоящей изюминкой вашего кабинета. С двумя ящиками, система открывания Tip-on. Высота стола 75 см. Толщина столешницы 40 мм.</description>
+			</offer>
+			<offer id="0510" available="true">
+				<name>Эксклюзивная кровать из тополя с декоративными элементами из смолы</name>
+				<categoryId>2</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/bcb/244_244_0/midg4t7805okmgcdt3ep49x7i03orzxt.png</picture>
+				<currencyId>RUB</currencyId>
+				<description>Настоящий эксклюзив- кровать из тополя в эпоксидной смоле, янтарного цвета. Размер изголовья: ширина переменная от 82 до 67 см., длина 290 см. Изголовье возможно разместить на нужной высоте, подвешивается на стену.  Корпус кровати выполнен из массива тополя с элементами заливки смолой 180 х 200 см. В комплект возможно приобрести прикроватные тумбы, консоль с зеркалом и шкаф. В стоимость входит каркас кровати с ортопедическим основанием и изголовьем.</description>
+			</offer>
+			<offer id="0511" available="true">
+				<name>Кровать из МДФ с вставками из массива</name>
+				<categoryId>13</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/205/244_244_0/ph1urs58z2gxxpzsykoo03lc6mgkhuhv.jpg</picture>
+				<price>80000</price>
+				<currencyId>RUB</currencyId>
+				<description>Корпус кровати изготовлен из МДФ, основание ортопедическое. Высота основания под матрас 25 см. Изголовье выполнено из массива карагача в рамке из МДФ. Возможно изготовление под заказ по вашим габаритам. Прикроватные тумбы можно приобрести отдельно по стоимости от 24 000 руб. за штуку. (Арт. 0621).</description>
+			</offer>
+			<offer id="0512" available="true">
+				<name>Кровать из массива горного вяза</name>
+				<categoryId>13</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/b9c/244_244_0/3v92amvrgma1vb74usk4ozpeb705bszu.jpeg</picture>
+				<price>89000</price>
+				<currencyId>RUB</currencyId>
+				<description>Авторская кровать полностью выполнена из массива горного вяза. Основание ортопедическое и находится на высоте 25 см от пола. Кровать вскрыта экологически чистым маслом немецкой фирмы "Biofa", финишный слой сделан водным лаком для прочности покрытия. Возможно изготовление по индивидуальным размерам, цветовая гамма изделия может быть разной.</description>
+			</offer>
+			<offer id="0502" available="true">
+				<name>Кровать из карагача</name>
+				<categoryId>2</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/2ac/244_244_0/115krdmuqcem8fmiv8r9hqku9omr0yn0.jpg</picture>
+				<price>110000</price>
+				<currencyId>RUB</currencyId>
+				<description>Кровать из карагача под заказ. Возможно изготовление основания кровати в 3-х размерах - 160х200 см; 180х200 см; 200х2000 см. Спинка (слэб) всегда уникален, длина варьируется от 160 до 300 см.</description>
+			</offer>
+			<offer id="0504" available="true">
+				<name>Кровать с подвесными тумбами</name>
+				<categoryId>2</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/bd8/244_244_0/lbu90j1hleo6lqqw0iqxwoy3ztn7fq20.jpg</picture>
+				<price>160000</price>
+				<currencyId>RUB</currencyId>
+				<description>Кровать выполнена под заказ, тонирована в цвет "Мербау". Возможно изготовления под заказ аналогичной. Срок изготовления 30 рабочих дней.</description>
+			</offer>
+			<offer id="0506" available="true">
+				<name>Кровать со слэбом из тополя</name>
+				<categoryId>2</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/9ee/244_244_0/1gk8q8fdu3e12whabwhcqwa4wh1jbxas.jpg</picture>
+				<currencyId>RUB</currencyId>
+				<description>Эксклюзивная кровать из тополя с оригинальным изголовьем из слэба. Яркие заливки эпоксидной смолой, как завершающий штрих в вашем интерьере.</description>
+			</offer>
+			<offer id="0507" available="true">
+				<name>Кровать "Модерн"</name>
+				<categoryId>2</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/326/244_244_0/8sbieb0p34teg5ve3s3sfdz05qbv98o1.jpg</picture>
+				<currencyId>RUB</currencyId>
+				<description>Кровать под заказ из карагача в тонировке "тик". Интересное дизайнерское решение состыковки деталей. Под заказ в любом размере и цвете.</description>
+			</offer>
+			<offer id="0508" available="true">
+				<name>Авторская кровать с уникальным изголовьем</name>
+				<categoryId>2</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/b69/244_244_0/m1msbiifoqb622zgr3lfeni4ft7gedmh.jpg</picture>
+				<price>170000</price>
+				<currencyId>RUB</currencyId>
+				<description>Любой размер кровати под заказ. Индивидуальный подбор изголовья кровати по вашему дизайну и размеру.</description>
+			</offer>
+			<offer id="0509" available="true">
+				<name>Кровать с изголовьем из слэба карагача</name>
+				<categoryId>2</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/2ef/244_244_0/4dmaqt6nwld7p860bqalzgytw7690rmo.png</picture>
+				<price>85000</price>
+				<currencyId>RUB</currencyId>
+				<description>Стильная кровать с изголовьем из слэба карагача. Все трещинки и сучки на слэбе залиты прозрачной эпоксидной смолой. Размер изголовья: ширина переменная от 62 см. до 86 см., максимальная длина слэба 197 см. Размер основания кровати: 160 х 200 см. Каркас полностью выполнен из массива карагача. Ортопедическое основание. Слэб оснащен подсветкой холодного свечения. В комплект возможно приобрести комод и прикроватные тумбы, тонированные в единый цвет с кроватью.</description>
+			</offer>
+			<offer id="0513" available="true">
+				<name>Авторская кровать из массива дуба</name>
+				<categoryId>13</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/558/244_244_0/z1ao83sx6pa6vhkbzdqhurk01pl0rivb.png</picture>
+				<price>150000</price>
+				<currencyId>RUB</currencyId>
+				<description>Авторский спальный комплект из массива дуба от нашей команды мастеров. За основу всей композиции взят огромный слэб дуба. Подобные заготовки большая редкость, а если учесть, что он обладает множеством красивых природных элементов, то можно смело сказать: Это одна из жемчужин наших изделий!!! Основание кровати выполнено так же из дуба, все элементы изделий прошли несколько стадий шлифовки и полировки, все детали покрыты экологически чистым маслом. Кровать оснащена ортопедическим основанием. Стоимость кровати составляет 150 000 руб. Отличным дополнением к кровати будут прикроватные тумбы, они изготовлены так же из дуба в стилистике с кроватью. Стоимость одной тумбы составляет 30 000 руб.. Все возникающие вопросы Вы можете обсудить с нашими менеджерами.</description>
+			</offer>
+			<offer id="0514" available="true">
+				<name>Кровать с уникальным изголовьем из массива ореха</name>
+				<categoryId>13</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/7a2/244_244_0/l7467i7hzf4qq3abbzmzzrnd59k4i1jw.png</picture>
+				<price>93000</price>
+				<currencyId>RUB</currencyId>
+				<description>Вашему вниманию представлен уникальный спальный комплект от нашей команды мастеров. Детали кровати выполнены из шпонированного мдф (шпон дуба) и вскрыты экологически чистым маслом немецкого производите. Главной изюминкой комплекта является изголовье, именно здесь расположена самая красивая деталь, которая привлекает внимание снова и снова. Эксклюзивная заготовка американского ореха прошла несколько этапов ручной шлифовки и полировки, очень приятная при тактильных прикосновениях. Все природные неровности пролиты эпоксидной смолой. Изголовье так же оснащено подсветкой, которая может играть роль ночника. В комплект к кровати можно приобрести прикроватные тумбы в той же стилистике. Габарит тумбы составляет 400х450х460 мм. Стоимость одной тумбы составляет 27500 руб. Изделия могут быть сделаны в различных цветах и размерах. При заказе обращайтесь к нашим менеджерам.</description>
+			</offer>
+			<offer id="0902" available="true">
+				<name>Столешница под раковину</name>
+				<categoryId>16</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/406/244_244_0/ltnxopabtlgv9ah1pzqqnp34dop663be.png</picture>
+				<price>40000</price>
+				<currencyId>RUB</currencyId>
+				<description>Столешница в ванную из карагача с заливкой эпоксидной смолой янтарного цвета. Толщина столешницы 60 мм.</description>
+			</offer>
+			<offer id="0901" available="true">
+				<name>Столешница из карагача</name>
+				<categoryId>16</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/69a/244_244_0/zc11p145uejtb918d4hqup7dsd4wt15l.png</picture>
+				<price>22000</price>
+				<currencyId>RUB</currencyId>
+				<description>Цельная столешница из слэба карагача в ванную комнату под раковину или в качестве полочки. Толщина изделия 65 мм.</description>
+			</offer>
+			<offer id="0905" available="true">
+				<name>Столешница под раковину со смолой</name>
+				<categoryId>17</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f4d/244_244_0/ouzfbn8xe8d9ug1yney5bl4p174d3nn3.png</picture>
+				<price>30000</price>
+				<currencyId>RUB</currencyId>
+				<description>Красивая оригинальная столешница из цельного слэба карагача с яркой заливкой бирюзовой смолой. Толщина столешницы 40 мм. Цвет дерева с серым оттенком.</description>
+			</offer>
+			<offer id="0254" available="true">
+				<name>Обеденный стол из массива "Black"</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/fc6/244_244_0/bviiti9cw07w6zvfz4w32tel0abkrjsf.png</picture>
+				<price>50000</price>
+				<currencyId>RUB</currencyId>
+				<description>Стол изготовлен из массива горного вяза. Финишное покрытие выполнено черной тонировкой в сочетании с полиуретановым лаком. Толщина столешницы составляет 35 мм. На поверхности столешницы присутствует оригинальный древесный рисунок. Возможно изготовление под заказ.</description>
+			</offer>
+			<offer id="0230" available="true">
+				<name>Стол обеденный оригинальный</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/02c/244_244_0/aeyj9nhvqkfcsnve13datp4oiv5mskuf.png</picture>
+				<price>54000</price>
+				<currencyId>RUB</currencyId>
+				<description>Интересный, необычный стол с красной заливкой смолой. Устойчивый и компактный  для небольшой кухнми. Ножки из дерева с декором из смолы.</description>
+			</offer>
+			<offer id="0214" available="true">
+				<name>Стол "Река" с темно-синей смолой</name>
+				<categoryId>5</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/c66/244_244_0/a05uslrql0axq6qodkj6quc38jvatari.png</picture>
+				<price>57000</price>
+				<currencyId>RUB</currencyId>
+				<description>Лаконичный и оригинальный! Обеденный стол из серии " Река" из карагача. Толщина столешницы 30 мм. Высота стола регулируется от 74 до 75 см.</description>
+			</offer>
+			<offer id="0281" available="true">
+				<name>Стол с рисунком из смолы</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f53/244_244_0/osssedmcfylkqs0d8r7lrqlel0nmbj7z.png</picture>
+				<price>47000</price>
+				<currencyId>RUB</currencyId>
+				<description>Обеденный стол  из пламенной березы с орнаментом из смолы. И новыми декоративными металлическими ножками.</description>
+			</offer>
+			<offer id="0256" available="true">
+				<name>Обеденный стол для баров и ресторанов</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/b21/244_244_0/yggi93q3naqnu20fmraag9j71qbyei5e.png</picture>
+				<price>34000</price>
+				<currencyId>RUB</currencyId>
+				<description>Стол изготовлен из массива горного вяза. Посередине столешницы проходит оригинальная заливка эпоксидной смолой с эффектом перламутра. Основание выполнено из металла, возможны различные исполнения. Цвет подстолья может быть различным. Изделие отлично подойдет для концепции баров и ресторанов. Изделие можно изготовить по индивидуальным пожеланиям в различных цветовых оттенках. При комплексном заказе предусмотрена скидка!!!</description>
+			</offer>
+			<offer id="0288" available="true">
+				<name>Большой стол из карагача "Река"</name>
+				<categoryId>1</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/60d/244_244_0/nzu4kebchd54rdh40rjtia3biwearec0.png</picture>
+				<price>102000</price>
+				<currencyId>RUB</currencyId>
+				<description>Новое изделие - обеденный стол "река" из карагача с синей рекой, станет отличным дополнением к интерьеру загородного дома или квартиры.</description>
+			</offer>
+			<offer id="0224" available="true">
+				<name>Стол из тополя в заливке смолой</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/59d/244_244_0/tzmxqma6awa49umyaaigo38li6xbcmb2.png</picture>
+				<price>128000</price>
+				<currencyId>RUB</currencyId>
+				<description>Шикарный обеденный стол из спила тополя, полностью залитый синей эпоксидной смолой. Толщина столешницы 38 мм.  Новое оригинальное и удобное подстолье из металла.</description>
+			</offer>
+			<offer id="0201" available="true">
+				<name>Обеденный стол из тополя «Река»</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/dbd/244_244_0/mguo7tyxa31ntkxrcan08zt3wa1kj202.png</picture>
+				<price>70000</price>
+				<currencyId>RUB</currencyId>
+				<description>Новый обеденный стол из тополя с двумя реками на новом подстолье. Изящные линии тополя прекрасно сочетаются с янтарной эпоксидной рекой, создавая при этом неповторимую композицию, которая отлично подойдет для обеденных помещений в современном стиле и в стиле лофт.</description>
+			</offer>
+			<offer id="0237" available="true">
+				<name>Обеденный стол из массива</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/933/244_244_0/nkt1bloukx0pdxsa0c5caf7lmehf7gds.png</picture>
+				<price>45000</price>
+				<currencyId>RUB</currencyId>
+				<description>Круглый обеденный стол из массива карагача. Столешница изготовлена из сращенных ламелей в оригинальных серых тонах. Толщина столешницы 43 мм. Подстолье выполнено из металла и покрашено в цвет столешницы.</description>
+			</offer>
+			<offer id="0207" available="true">
+				<name>Уникальный обеденный стол из тополя</name>
+				<categoryId>1</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/5e6/244_244_0/n3fampgsjkhpfk9a9h53qcts4g1536wa.png</picture>
+				<price>162000</price>
+				<currencyId>RUB</currencyId>
+				<description>Новый уникальный авторский стол из слэбов тополя на металлическом подстолье. Эксклюзивная работа наших мастеров никого не оставит равнодушным. Стол в единственном экземпляре. Финишное покрытие стола выполнено лаком. Возможно изготовление на заказ по индивидуальным размерам.</description>
+			</offer>
+			<offer id="0205" available="true">
+				<name>Обеденный стол из ивы</name>
+				<categoryId>1</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/93d/244_244_0/4dyzzyu5eg6lyiexsydnjovhe2xjtfco.png</picture>
+				<price>192000</price>
+				<currencyId>RUB</currencyId>
+				<description>Новый уникальный обеденный стол из ивы на металлическом подстолье. Стол имеет две полупрозрачные реки, с бирюзовым оттенком. Стол хорошо подойдет для больших обеденных помещений. Возможно изготовление на заказ по индивидуальным размерам.</description>
+			</offer>
+			<offer id="0239" available="true">
+				<name>Обеденный стол с эпоксидной смолой</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/a2e/244_244_0/8laamop1gassxsx449y7w3hg3zomlpe4.png</picture>
+				<price>63000</price>
+				<currencyId>RUB</currencyId>
+				<description>Обеденный стол из ламелей карагача залитых прозрачной эпоксидной смолой станет уникальным элементом декора вашей столовой группы. Возможно изготовление по индивидуальным размерам.</description>
+			</offer>
+			<offer id="0221" available="true">
+				<name>Спил тополя в прозрачной заливке смолой</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/33d/244_244_0/69a85f6w8dpt270h0mvfmnn85ogc4b66.png</picture>
+				<price>126000</price>
+				<currencyId>RUB</currencyId>
+				<description>Шикарный обеденный стол из спила тополя, полностью залитый прозрачной эпоксидной смолой. Толщина столешницы 38 мм.</description>
+			</offer>
+			<offer id="0246" available="true">
+				<name>Стол обеденный из массива тополя</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/3a5/244_244_0/f5q13jb5ne2iijvo1557jm1tmdg8oyyy.png</picture>
+				<price>102000</price>
+				<currencyId>RUB</currencyId>
+				<description>Эксклюзивный обеденный стол в сочетании эпоксидной смолы и массива тополя. Финишное покрытие выполнено полиуретановым лаком. Подстолье металлическое. Высота изделия 75 см. Возможно изготовление под заказ по индивидуальным размерам.</description>
+			</offer>
+			<offer id="0287" available="true">
+				<name>Обеденный столик из чёрного американского ореха</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/689/244_244_0/i8h5d7qssqc8n7lg0r15iv21bc30i1kb.png</picture>
+				<price>71000</price>
+				<currencyId>RUB</currencyId>
+				<description>Небольшой обеденный столик из черного американского ореха станет отличным приобретением для тех, кто следит за тенденциями дизайнерской мебели!</description>
+			</offer>
+			<offer id="0254" available="true">
+				<name>Обеденный стол из массива "Black"</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/fc6/244_244_0/bviiti9cw07w6zvfz4w32tel0abkrjsf.png</picture>
+				<price>50000</price>
+				<currencyId>RUB</currencyId>
+				<description>Стол изготовлен из массива горного вяза. Финишное покрытие выполнено черной тонировкой в сочетании с полиуретановым лаком. Толщина столешницы составляет 35 мм. На поверхности столешницы присутствует оригинальный древесный рисунок. Возможно изготовление под заказ.</description>
+			</offer>
+			<offer id="0230" available="true">
+				<name>Стол обеденный оригинальный</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/02c/244_244_0/aeyj9nhvqkfcsnve13datp4oiv5mskuf.png</picture>
+				<price>54000</price>
+				<currencyId>RUB</currencyId>
+				<description>Интересный, необычный стол с красной заливкой смолой. Устойчивый и компактный  для небольшой кухнми. Ножки из дерева с декором из смолы.</description>
+			</offer>
+			<offer id="0214" available="true">
+				<name>Стол "Река" с темно-синей смолой</name>
+				<categoryId>5</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/c66/244_244_0/a05uslrql0axq6qodkj6quc38jvatari.png</picture>
+				<price>57000</price>
+				<currencyId>RUB</currencyId>
+				<description>Лаконичный и оригинальный! Обеденный стол из серии " Река" из карагача. Толщина столешницы 30 мм. Высота стола регулируется от 74 до 75 см.</description>
+			</offer>
+			<offer id="0281" available="true">
+				<name>Стол с рисунком из смолы</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f53/244_244_0/osssedmcfylkqs0d8r7lrqlel0nmbj7z.png</picture>
+				<price>47000</price>
+				<currencyId>RUB</currencyId>
+				<description>Обеденный стол  из пламенной березы с орнаментом из смолы. И новыми декоративными металлическими ножками.</description>
+			</offer>
+			<offer id="0256" available="true">
+				<name>Обеденный стол для баров и ресторанов</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/b21/244_244_0/yggi93q3naqnu20fmraag9j71qbyei5e.png</picture>
+				<price>34000</price>
+				<currencyId>RUB</currencyId>
+				<description>Стол изготовлен из массива горного вяза. Посередине столешницы проходит оригинальная заливка эпоксидной смолой с эффектом перламутра. Основание выполнено из металла, возможны различные исполнения. Цвет подстолья может быть различным. Изделие отлично подойдет для концепции баров и ресторанов. Изделие можно изготовить по индивидуальным пожеланиям в различных цветовых оттенках. При комплексном заказе предусмотрена скидка!!!</description>
+			</offer>
+			<offer id="0288" available="true">
+				<name>Большой стол из карагача "Река"</name>
+				<categoryId>1</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/60d/244_244_0/nzu4kebchd54rdh40rjtia3biwearec0.png</picture>
+				<price>102000</price>
+				<currencyId>RUB</currencyId>
+				<description>Новое изделие - обеденный стол "река" из карагача с синей рекой, станет отличным дополнением к интерьеру загородного дома или квартиры.</description>
+			</offer>
+			<offer id="0224" available="true">
+				<name>Стол из тополя в заливке смолой</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/59d/244_244_0/tzmxqma6awa49umyaaigo38li6xbcmb2.png</picture>
+				<price>128000</price>
+				<currencyId>RUB</currencyId>
+				<description>Шикарный обеденный стол из спила тополя, полностью залитый синей эпоксидной смолой. Толщина столешницы 38 мм.  Новое оригинальное и удобное подстолье из металла.</description>
+			</offer>
+			<offer id="0201" available="true">
+				<name>Обеденный стол из тополя «Река»</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/dbd/244_244_0/mguo7tyxa31ntkxrcan08zt3wa1kj202.png</picture>
+				<price>70000</price>
+				<currencyId>RUB</currencyId>
+				<description>Новый обеденный стол из тополя с двумя реками на новом подстолье. Изящные линии тополя прекрасно сочетаются с янтарной эпоксидной рекой, создавая при этом неповторимую композицию, которая отлично подойдет для обеденных помещений в современном стиле и в стиле лофт.</description>
+			</offer>
+			<offer id="0237" available="true">
+				<name>Обеденный стол из массива</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/933/244_244_0/nkt1bloukx0pdxsa0c5caf7lmehf7gds.png</picture>
+				<price>45000</price>
+				<currencyId>RUB</currencyId>
+				<description>Круглый обеденный стол из массива карагача. Столешница изготовлена из сращенных ламелей в оригинальных серых тонах. Толщина столешницы 43 мм. Подстолье выполнено из металла и покрашено в цвет столешницы.</description>
+			</offer>
+			<offer id="0207" available="true">
+				<name>Уникальный обеденный стол из тополя</name>
+				<categoryId>1</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/5e6/244_244_0/n3fampgsjkhpfk9a9h53qcts4g1536wa.png</picture>
+				<price>162000</price>
+				<currencyId>RUB</currencyId>
+				<description>Новый уникальный авторский стол из слэбов тополя на металлическом подстолье. Эксклюзивная работа наших мастеров никого не оставит равнодушным. Стол в единственном экземпляре. Финишное покрытие стола выполнено лаком. Возможно изготовление на заказ по индивидуальным размерам.</description>
+			</offer>
+			<offer id="0205" available="true">
+				<name>Обеденный стол из ивы</name>
+				<categoryId>1</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/93d/244_244_0/4dyzzyu5eg6lyiexsydnjovhe2xjtfco.png</picture>
+				<price>192000</price>
+				<currencyId>RUB</currencyId>
+				<description>Новый уникальный обеденный стол из ивы на металлическом подстолье. Стол имеет две полупрозрачные реки, с бирюзовым оттенком. Стол хорошо подойдет для больших обеденных помещений. Возможно изготовление на заказ по индивидуальным размерам.</description>
+			</offer>
+			<offer id="0239" available="true">
+				<name>Обеденный стол с эпоксидной смолой</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/a2e/244_244_0/8laamop1gassxsx449y7w3hg3zomlpe4.png</picture>
+				<price>63000</price>
+				<currencyId>RUB</currencyId>
+				<description>Обеденный стол из ламелей карагача залитых прозрачной эпоксидной смолой станет уникальным элементом декора вашей столовой группы. Возможно изготовление по индивидуальным размерам.</description>
+			</offer>
+			<offer id="0221" available="true">
+				<name>Спил тополя в прозрачной заливке смолой</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/33d/244_244_0/69a85f6w8dpt270h0mvfmnn85ogc4b66.png</picture>
+				<price>126000</price>
+				<currencyId>RUB</currencyId>
+				<description>Шикарный обеденный стол из спила тополя, полностью залитый прозрачной эпоксидной смолой. Толщина столешницы 38 мм.</description>
+			</offer>
+			<offer id="0246" available="true">
+				<name>Стол обеденный из массива тополя</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/3a5/244_244_0/f5q13jb5ne2iijvo1557jm1tmdg8oyyy.png</picture>
+				<price>102000</price>
+				<currencyId>RUB</currencyId>
+				<description>Эксклюзивный обеденный стол в сочетании эпоксидной смолы и массива тополя. Финишное покрытие выполнено полиуретановым лаком. Подстолье металлическое. Высота изделия 75 см. Возможно изготовление под заказ по индивидуальным размерам.</description>
+			</offer>
+			<offer id="0287" available="true">
+				<name>Обеденный столик из чёрного американского ореха</name>
+				<categoryId>9</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/689/244_244_0/i8h5d7qssqc8n7lg0r15iv21bc30i1kb.png</picture>
+				<price>71000</price>
+				<currencyId>RUB</currencyId>
+				<description>Небольшой обеденный столик из черного американского ореха станет отличным приобретением для тех, кто следит за тенденциями дизайнерской мебели!</description>
+			</offer>
+			<offer id="0823" available="true">
+				<name>Письменный стол из массива карагача</name>
+				<categoryId>12</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/77d/244_244_0/hs4g84zurzpgji6u40x6lezzwu6zadll.png</picture>
+				<price>75000</price>
+				<currencyId>RUB</currencyId>
+				<description>Дизайнерский письменный стол из массива карагача с заливкой эпоксидной смолы. Деревянная ножка с переходящим рисунком древесины. Отличное решение для вашего кабинета.</description>
+			</offer>
+			<offer id="0825" available="true">
+				<name>Письменный стол из массива</name>
+				<categoryId>12</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/520/244_244_0/8trli1th22yupz12rbh77s6zjrxfv7n1.png</picture>
+				<price>78000</price>
+				<currencyId>RUB</currencyId>
+				<description>Письменный стол выполнен из массива горного вяза. Темные заливки эпоксидной смолой на фоне светлой древесины придают изделию неповторимую оригинальность, от которой вы получите настоящее наслаждение. Возможно изготовление по индивидуальным размерам. Тонировка древесины, как и цвет смолы, могут быть различными.</description>
+			</offer>
+			<offer id="0816" available="true">
+				<name>Авторский письменный стол из ореха</name>
+				<categoryId>11</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/fd4/244_244_0/azusjllps52wf5t5x07dvy6yk3ihi3nv.png</picture>
+				<price>93000</price>
+				<currencyId>RUB</currencyId>
+				<description>Авторский письменный стол с выдвижным ящиком на магнитном механизме. Стол красив и эстетичен, подойдет для тех, кто уважает своё рабочее пространство. За таким столом приятно сидеть и удобно работать, он впишется в современный интерьер и будет не только мебелью, но и практичным инструментом.</description>
+			</offer>
+			<offer id="0827" available="true">
+				<name>Письменный стол из массива горного вяза</name>
+				<categoryId>12</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/7b8/244_244_0/9hhl8x77gg8lj9zchpvk53300nk0k8bf.png</picture>
+				<price>52000</price>
+				<currencyId>RUB</currencyId>
+				<description>При изготовлении стола использовался цельный слэб карагача. Все трещины и природные неровности пролиты прозрачной эпоксидной смолой, поверхность столешницы идеально отшлифована и отполирована.</description>
+			</offer>
+			<offer id="0829" available="true">
+				<name>Письменный стол "Bean"</name>
+				<categoryId>12</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/3e9/244_244_0/zo5pskx2b98y6nfhf26wx5fkmxpixhxi.png</picture>
+				<price>70000</price>
+				<currencyId>RUB</currencyId>
+				<description>Современный, легкий и эстетичный письменный стол от наших мастеров "Bean". Столешница данного изделия выполнена из массива горного вяза/карагача, идеально отшлифована и отполирована. Все трещинки и природные неровности пролиты эпоксидной смолой для создания идеально гладкой поверхности. Финишное покрытие исполнено водным лаком для жесткости покрытия. Тонировка производилась экологически чистыми немецкими маслами. Толщина столешницы составляет около 40 мм. Опора металлическая, высота готового изделия составляет 765 мм.</description>
+			</offer>
+			<offer id="0830" available="true">
+				<name>Письменный стол "Black Bean"</name>
+				<categoryId>12</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/eb7/244_244_0/p7226ez08ar9w2697klw0fvbru1cwsqu.png</picture>
+				<price>70000</price>
+				<currencyId>RUB</currencyId>
+				<description>Еще одна эксклюзивная работа от наших мастеров, письменный стол "Black Bean". Столешница выполнена из массива черного дерева (американский орех), все природные неровности на поверхности столешницы пролиты эпоксидной смолой для создания идеально гладкой плоскости. Перед тем как нанести финишный слой водного лака для прочности покрытия, столешница прошла несколько стадий ручной шлифовки. Времяпрепровождение за таким объектом сделает работу в радость! Толщина столешницы составляет около 40 мм. Опора металлическая. Высота готового изделия 765 мм.</description>
+			</offer>
+			<offer id="0833" available="true">
+				<name>Письменный стол "Simple"</name>
+				<categoryId>12</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/aec/244_244_0/y5q3qfuxwp17120t0glwr93q2r1vfkxc.png</picture>
+				<price>63000</price>
+				<currencyId>RUB</currencyId>
+				<description>Казалось бы, все просто, всего на всего деревянная доска, но как она роскошно смотрится в законченном виде. Красота в простоте! За основу изделия взят слэб массива карагача, который прошел несколько этапов фрезеровки, ручной шлифовки и полировки. Все природные неровности и сучки пролиты эпоксидной смолой для получения идеально ровной поверхности, которая готова дарить вам теплые эмоции при прикосновениях и делать ваш рабочий процесс более приятным. Основание сделано из металла и окрашено в черный цвет. Возможно изготовление под заказ по всем индивидуальным пожеланиям.</description>
+			</offer>
+			<offer id="0822" available="true">
+				<name>Письменный стол эксклюзивной серии</name>
+				<categoryId>11</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f86/244_244_0/8cn4066ttmh8rgh2nta2nlr3u24se1ei.png</picture>
+				<price>145000</price>
+				<currencyId>RUB</currencyId>
+				<description>Стол из слэба карагача в обрамлении черной эпоксидной смолой в минималистическом стиле будет настоящей изюминкой вашего кабинета. С двумя ящиками, система открывания Tip-on. Высота стола 75 см. Толщина столешницы 40 мм.</description>
+			</offer>
+			<offer id="0835" available="true">
+				<name>Письменный стол из массива карагача</name>
+				<categoryId>12</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/b9e/244_244_0/9zg9hanw5i8jg4l2pjqkjy4b0wc6p593.png</picture>
+				<price>105000</price>
+				<currencyId>RUB</currencyId>
+				<description>Очередной великолепный и стильный письменный стол от нашей команды мастеров. Изделие полностью изготовленно из массива карагача (горный вяз). За основу мы взяли две заготовки которые прекрасно сочетаются друг с другом и обладают очень красивым древесным рисунком. Стол оборудован двумя выдвижными ящиками для удобства работы, фасады которых украшены вырезанным рисунком. Каждая деталь прошла несколько стадий ручной шлифовки, финишное покрытие выполнено полиуретановым лаком. Толщина столешницы составляет 35 мм. Возможно изготовление под заказ с соблюдением всех ваших пожеланий.</description>
+			</offer>
+			<offer id="0836" available="true">
+				<name>Письменный стол "Smoke"</name>
+				<categoryId>12</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/30c/244_244_0/j4h4ln3gxy8qm6cf4um8k5qbxyoygafm.png</picture>
+				<price>120000</price>
+				<currencyId>RUB</currencyId>
+				<description>Вашему вниманию представлена еще одна эксклюзивная модель письменного стола от нашей команды мастеров, великолепный стол "Smoke". За основу изделия мы взяли заготовку карагача, как следует поработали с ней и в конце получили восхитительное изделие. Края столешницы, а так же все трещинки и сучки данной заготовки мы пролили эпоксидной смолой, чтобы поверхность идеально ровной, и притягивала взгляды снова и снова. Финишное покрытие сделано полиуретановым лаком и прошло несколько стадий ручной полировки. Выдвижные ящики оборудованы фурнитурой высокого качества, открывание нажатием. Высота изделия составляет 75 см. Возможно изготовление под заказ по индивидуальным размерам.</description>
 			</offer>
 			<offer id="0173" available="true">
 				<name>Журнальный стол из массива Американского ореха</name>
 				<categoryId>3</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/ee0/244_244_0/pg7n7lflm4k4met182m71hkn0nmics39.jpg</picture>
-				<price>от 35 000 </price>
+				<price>от35000</price>
 				<currencyId>RUB</currencyId>
 				<description>Столешница изделия сделана из массива американского ореха (черное дерево) в сочетании с заливкой эпоксидной смолы молочного оттенка. На поверхности бурлит оригинальный древесный рисунок, а пролитые смолой небольшие трещинки и сучки придают эксклюзивности изделию. Поверхность столешницы прошла несколько этапов шлифовки и полировки, перед тем, как будет вас будоражить ощущениями после тактильных прикосновений. Приблизьтесь к естественной красоте природы! Толщина столешницы около 23 мм. Высота изделия 45 см. Подстолье выполнено из металла. Возможно изготовление под заказ по вашим индивидуальным пожеланиям.</description>
 			</offer>
@@ -1192,7 +1016,7 @@
 				<name>Журнальный стол с эпоксидной смолой</name>
 				<categoryId>3</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/0b2/244_244_0/ga6t4z4ga3cg33i72oklouhkbqcxe7ty.png</picture>
-				<price>27 000 </price>
+				<price>27000</price>
 				<currencyId>RUB</currencyId>
 				<description>Изделие выполнено из массива капового тополя с заливкой эпоксидной смолы синего цвета. Основание металлическое, высота изделия составляет 45 см, толщина столешницы 25 мм. Оригинальные и неповторимые линии дерева создадут впечатление уединения с природой, ваша зона отдыха заиграет новыми красками и преобразиться вместе с уникальным изделием. Финишное покрытие сделано полиуретановым лаком для защиты поверхности столешницы.</description>
 			</offer>
@@ -1200,7 +1024,7 @@
 				<name>Журнальный стол «Exotic maple»</name>
 				<categoryId>3</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/28f/244_244_0/sjzbq8lze5f6a7qxl2meq1kjwrxqvzpf.png</picture>
-				<price>от 72 000 </price>
+				<price>от72000</price>
 				<currencyId>RUB</currencyId>
 				<description>Эксклюзивный журнальный стол "Exotic maple". Основой изделия послужил оригинальный спил массива клена, цветовая гамма массива и природные очертания влюбляют в себя с первого взгляда!!! Заливка эпоксидной смолы выполнена в черном цвете. Финишной покрытие выполнено полиуретановым лаком. Поверхность столешницы идеально отшлифована и отполирована. Основание для данной модели изготовлено из метала и окрашено черной эмалью. У нас на складе имеется огромный выбор различных спилов, возможно изготовление под заказ по всем индивидуальным пожеланиям.</description>
 			</offer>
@@ -1208,7 +1032,7 @@
 				<name>Журнальный столик «Black Island»</name>
 				<categoryId>3</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/b37/244_244_0/9ooj99d0276pacyvecg1opfulr4wwuay.png</picture>
-				<price>36 000 </price>
+				<price>36000</price>
 				<currencyId>RUB</currencyId>
 				<description>Наши мастера закончили работу над еще одним эффектным столиком! При изготовлении данного изделия применялся спил массива горного вяза (карагача), облитый непрозрачной черной эпоксидной смолой. Древесный рисунок на поверхности столешницы бурлит оригинальными узорами, приковывая взгляды снова и снова, а гармоничные линии по периметру столешницы придают эксклюзивность и неповторимость. Столешница идеально отшлифована, финишный слой выполнен водным лаком для прочности покрытия. Основание металлическое. Возможно изготовление под заказ по индивидуальным требованиям и пожеланиям.</description>
 			</offer>
@@ -1216,7 +1040,7 @@
 				<name>Журнальный стол из серии «Beautiful»</name>
 				<categoryId>3</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/a9f/244_244_0/561gf1lrhwnmf3g00jav7jydbrg0tpkx.jpg</picture>
-				<price>50 000 </price>
+				<price>50000</price>
 				<currencyId>RUB</currencyId>
 				<description>Эксклюзивный столик от наших мастеров! Оригинальная и неповторимая модель журнального столика из Американского ореха в сочетании с эпоксидной смолой темного оттенка. Изделие прошло несколько стадий шлифовки, поверхность столешницы идеально гладкое и очень приятное на ощупь. Финишное покрытие выполнено полиуретановым лаком. Основание изготовлено так же из массива Американского ореха. Высота журнального столика составляет 360 мм.</description>
 			</offer>
@@ -1224,7 +1048,7 @@
 				<name>Эксклюзивный столик в янтарной заливке</name>
 				<categoryId>3</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/114/244_244_0/hjsz3fboj31n7jxxfce0216n31f5suiu.png</picture>
-				<price>68 000 </price>
+				<price>68000</price>
 				<currencyId>RUB</currencyId>
 				<description>Неповторимый журнальный столик из необычного слэба карагача в полной заливке янтарной эпоксидной смолой. Настоящий эксклюзив!Толщина столешницы 36 мм.</description>
 			</offer>
@@ -1232,7 +1056,7 @@
 				<name>Журнальный стол «Forest river»</name>
 				<categoryId>3</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/05f/244_244_0/1mq1k29dfreu7jconmfnnwvzvx50iikd.png</picture>
-				<price>47 000 </price>
+				<price>47000</price>
 				<currencyId>RUB</currencyId>
 				<description>При изготовлении данной модели наши мастера использовали заготовки горного вяза, которые отлично сочетаются с эпоксидной смолой нежно голубого оттенка. Заготовки обладают очень красивым, ярко-выраженным древесным рисунком, который будет притягивать ваш взгляд снова и снова!!! Поверхность изделия идеально отшлифована и очень приятная на ощупь, каждое тактильное прикосновение будет приносить ощущение сближения с природой и будет дарить вам тепло дерева изо дня в день. Основание выполнено из металла и окрашено в цветовую гамму столешницы. Возможно изготовление под заказ по индивидуальным пожеланиям.</description>
 			</offer>
@@ -1240,7 +1064,7 @@
 				<name>Журнальный стол «Berry»</name>
 				<categoryId>3</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/af6/244_244_0/1g4xw0cmzeevyxsjl05gfrtaj4td5evc.png</picture>
-				<price>30 000 </price>
+				<price>30000</price>
 				<currencyId>RUB</currencyId>
 				<description>Данная модель журнального столика выполнена из заготовок массива черешни с заливкой темной эпоксидной смолой. Наши мастера сохранили природные края, чтобы вы оценили гармоничные изгибы природных линий, которые прекрасно сочетаются с приятным древесным рисунком. Поверхность столешницы идеально отшлифована и отполирована, по тактильным ощущениям очень приятная на ощупь. Подстолье изготовлено из металла. Высота изделия составляет 45 см.</description>
 			</offer>
@@ -1248,7 +1072,7 @@
 				<name>Журнальный стол «Fantasy»</name>
 				<categoryId>3</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/5dd/244_244_0/tmpms4okla2fl520pfijatrani8nas78.png</picture>
-				<price>53 000 </price>
+				<price>53000</price>
 				<currencyId>RUB</currencyId>
 				<description>При изготовлении столика использовалась эксклюзивная заготовка горного вяза/ карагача в сочетании с черным МДФ, которые придают столешнице оригинальность и неповторимость исполнения. Толщина столешницы составляет 35 мм. Авторское основание для столешницы выполнено из металла и покрыто автоэмалью двух цветов. Изделие гармонично украсит собой практически любой интерьер и будет приковывать взгляды ваших гостей снова и снова.</description>
 			</offer>
@@ -1256,7 +1080,7 @@
 				<name>Журнальный стол «Classic»</name>
 				<categoryId>3</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/702/244_244_0/lrbbr5gnjshxqwi1xxv2c1fl66ioh3bz.png</picture>
-				<price>25 000 </price>
+				<price>25000</price>
 				<currencyId>RUB</currencyId>
 				<description>Вашему вниманию представлен журнальный стол из массива карагача в классическом стиле. Диаметр столешницы составляет 70 см, высота изделия 45 см. Все природные неровности, трещинки и сучки наши мастера пролили эпоксидной смолой молочного оттенка. Тонировка древесины выполнена в благородном древесном цвете. Возможно изготовление под заказ по всем индивидуальным пожеланиям.</description>
 			</offer>
@@ -1264,7 +1088,7 @@
 				<name>Столик из тополя в заливке смолой</name>
 				<categoryId>3</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/3ec/244_244_0/227t331n8jp47hcqq9hmjrtuaemhn9df.png</picture>
-				<price>55 000 </price>
+				<price>55000</price>
 				<currencyId>RUB</currencyId>
 				<description>За основу данной модели был взят спил капового тополя, который был полностью залит в эпоксидную смолу голубого оттенка. Изделие отлично дополнит собой любое пространство и украсит вашу зону отдыха. Поверхность столешницы прошла несколько стадий ручной полировки, что придало необычайный шарм. Основание изготовлено из нетипового полуовального профиля и окрашено в золотистый цвет.</description>
 			</offer>
@@ -1272,7 +1096,7 @@
 				<name>Журнальный стол «Enjoy the art»</name>
 				<categoryId>3</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/a7a/244_244_0/a0g15rr6icvt1zk5vssqswf0sw2evdbg.png</picture>
-				<price>от 56 000 </price>
+				<price>от56000</price>
 				<currencyId>RUB</currencyId>
 				<description>Закончена работа над еще одним эксклюзивным изделием, журнальный стол "Enjoy the art". За основу данной модели взят оригинальный спил клена с очень красивым фрагментом природной пустоты, расположенной по центру. Заливка эпоксидной смолы выполнена в темной цветовой гамме, которая отлично сочетается с данной заготовкой, природный рисунок бурлит своей фактурой и завораживает с первого взгляда. Поверхность столешницы прошла несколько стадий ручной шлифовки и полировки, чтобы каждое прикосновение приносило вам только приятные эмоции. Толщина столешницы составляет 37 мм. Высота изделия 455 мм. На складе имеется большой выбор подобных заготовок, возможно изготовление в различной цветовой гамме.</description>
 			</offer>
@@ -1280,7 +1104,7 @@
 				<name>Стол «Река» трансформер</name>
 				<categoryId>3</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/0c4/244_244_0/1vimxgonti313xj2g50a5u3assoti7h6.png</picture>
-				<price>60 000 </price>
+				<price>60000</price>
 				<currencyId>RUB</currencyId>
 				<description>Столешница изготовлена из эксклюзивных заготовок массива горного вяза/карагача с заливкой эпоксидной смолы светло-черного оттенка. Толщина столешницы составляет порядка 20 мм. Идеально отшлифованная поверхность столешницы будет манить к себе снова и снова, вы никогда не устанете от эмоций, которые будете получать при тактильных прикосновениях. Финишное покрытие выполнено экологически чистыми немецкими маслами. Подстолье металлическое, с нанесением порошкового покрытия. Высота изделия может варьироваться от 50 до 70 см. Возможно изготовление под заказ по индивидуальным пожеланиям.</description>
 			</offer>
@@ -1288,7 +1112,7 @@
 				<name>Журнальный стол «Decor»</name>
 				<categoryId>3</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/fc3/244_244_0/hm1twal2m46146v9siz6ceh099vfq6nn.png</picture>
-				<price>35 000 </price>
+				<price>35000</price>
 				<currencyId>RUB</currencyId>
 				<description>При изготовлении данного изделия мы взяли за основу гармоничный слэб горного вяза (карагач), все трещинки и природные неровности заполнили эпоксидной смолой и получили прекрасную модель журнального столика. Он отлично впишется в различный интерьер и подарит вам тепло живой древесины. На поверхности столешницы бурлит своими очертаниями неповторимый древесный рисунок, все идеально отшлифовано и отполировано, чтобы радовать вас как при тактильных прикосновениях, так и от одного взгляда. Подстолье выполнено из металла и окрашено в черный цвет. Возможно изготовление под заказ.</description>
 			</offer>
@@ -1296,97 +1120,265 @@
 				<name>Журнальный столик из массива ореха</name>
 				<categoryId>3</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/ae4/244_244_0/j5bja6vrnhqm7l7if3id2m833mthg5ff.png</picture>
-				<price>36 000 </price>
+				<price>36000</price>
 				<currencyId>RUB</currencyId>
 				<description>Аккуратный журнальный столик из ореха залитого эпоксидной смолой, финишное покрытие столешницы выполнено лаком, толщина столешницы 20 мм. Основание изготовлено из металла и окрашено черной эмалью. Возможно изготовление на заказ по индивидуальным размерам.</description>
 			</offer>
-			<offer id="0816" available="true">
-				<name>Авторский письменный стол из ореха</name>
-				<categoryId>17</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/fd4/244_244_0/azusjllps52wf5t5x07dvy6yk3ihi3nv.png</picture>
-				<price>93 000 </price>
+			<offer id="0173" available="true">
+				<name>Журнальный стол из массива Американского ореха</name>
+				<categoryId>3</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/ee0/244_244_0/pg7n7lflm4k4met182m71hkn0nmics39.jpg</picture>
+				<price>от35000</price>
 				<currencyId>RUB</currencyId>
-				<description>Авторский письменный стол с выдвижным ящиком на магнитном механизме. Стол красив и эстетичен, подойдет для тех, кто уважает своё рабочее пространство. За таким столом приятно сидеть и удобно работать, он впишется в современный интерьер и будет не только мебелью, но и практичным инструментом.</description>
+				<description>Столешница изделия сделана из массива американского ореха (черное дерево) в сочетании с заливкой эпоксидной смолы молочного оттенка. На поверхности бурлит оригинальный древесный рисунок, а пролитые смолой небольшие трещинки и сучки придают эксклюзивности изделию. Поверхность столешницы прошла несколько этапов шлифовки и полировки, перед тем, как будет вас будоражить ощущениями после тактильных прикосновений. Приблизьтесь к естественной красоте природы! Толщина столешницы около 23 мм. Высота изделия 45 см. Подстолье выполнено из металла. Возможно изготовление под заказ по вашим индивидуальным пожеланиям.</description>
 			</offer>
-			<offer id="0822" available="true">
-				<name>Письменный стол эксклюзивной серии</name>
-				<categoryId>17</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f86/244_244_0/8cn4066ttmh8rgh2nta2nlr3u24se1ei.png</picture>
-				<price>145 000 </price>
+			<offer id="0157" available="true">
+				<name>Журнальный стол с эпоксидной смолой</name>
+				<categoryId>3</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/0b2/244_244_0/ga6t4z4ga3cg33i72oklouhkbqcxe7ty.png</picture>
+				<price>27000</price>
 				<currencyId>RUB</currencyId>
-				<description>Стол из слэба карагача в обрамлении черной эпоксидной смолой в минималистическом стиле будет настоящей изюминкой вашего кабинета. С двумя ящиками, система открывания Tip-on. Высота стола 75 см. Толщина столешницы 40 мм.</description>
+				<description>Изделие выполнено из массива капового тополя с заливкой эпоксидной смолы синего цвета. Основание металлическое, высота изделия составляет 45 см, толщина столешницы 25 мм. Оригинальные и неповторимые линии дерева создадут впечатление уединения с природой, ваша зона отдыха заиграет новыми красками и преобразиться вместе с уникальным изделием. Финишное покрытие сделано полиуретановым лаком для защиты поверхности столешницы.</description>
 			</offer>
-			<offer id="1014" available="true">
-				<name>Дверь для шкафа-купе</name>
-				<categoryId>14</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/08a/244_244_0/dou2mpqy7uk3eg5slh29jv3kknmfi043.png</picture>
-				<price>По зап</price>
+			<offer id="0195" available="true">
+				<name>Журнальный стол «Exotic maple»</name>
+				<categoryId>3</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/28f/244_244_0/sjzbq8lze5f6a7qxl2meq1kjwrxqvzpf.png</picture>
+				<price>от72000</price>
 				<currencyId>RUB</currencyId>
-				<description>Изготавливаем двери для шкафов-купе разных размеров и моделей под заказ.</description>
+				<description>Эксклюзивный журнальный стол "Exotic maple". Основой изделия послужил оригинальный спил массива клена, цветовая гамма массива и природные очертания влюбляют в себя с первого взгляда!!! Заливка эпоксидной смолы выполнена в черном цвете. Финишной покрытие выполнено полиуретановым лаком. Поверхность столешницы идеально отшлифована и отполирована. Основание для данной модели изготовлено из метала и окрашено черной эмалью. У нас на складе имеется огромный выбор различных спилов, возможно изготовление под заказ по всем индивидуальным пожеланиям.</description>
 			</offer>
-			<offer id="1013" available="true">
-				<name>Большая амбарная дверь из карагача</name>
-				<categoryId>14</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/13e/244_244_0/d1ylad6lc8ahv12co7me1rm3ys86jh84.png</picture>
-				<price>По зап</price>
+			<offer id="0187" available="true">
+				<name>Журнальный столик «Black Island»</name>
+				<categoryId>3</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/b37/244_244_0/9ooj99d0276pacyvecg1opfulr4wwuay.png</picture>
+				<price>36000</price>
 				<currencyId>RUB</currencyId>
-				<description>Большая амбарная дверь из клеенного карагача с натуральным, природным краем.</description>
+				<description>Наши мастера закончили работу над еще одним эффектным столиком! При изготовлении данного изделия применялся спил массива горного вяза (карагача), облитый непрозрачной черной эпоксидной смолой. Древесный рисунок на поверхности столешницы бурлит оригинальными узорами, приковывая взгляды снова и снова, а гармоничные линии по периметру столешницы придают эксклюзивность и неповторимость. Столешница идеально отшлифована, финишный слой выполнен водным лаком для прочности покрытия. Основание металлическое. Возможно изготовление под заказ по индивидуальным требованиям и пожеланиям.</description>
 			</offer>
-			<offer id="1012" available="true">
-				<name>Двери лофт</name>
-				<categoryId>14</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f18/244_244_0/8aqwai7psh0u1s2tbsahnwvijh2vd725.png</picture>
-				<price>По зап</price>
+			<offer id="0185" available="true">
+				<name>Журнальный стол из серии «Beautiful»</name>
+				<categoryId>3</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/a9f/244_244_0/561gf1lrhwnmf3g00jav7jydbrg0tpkx.jpg</picture>
+				<price>50000</price>
 				<currencyId>RUB</currencyId>
-				<description>Двери в стиле лофт с заливками эпоксидной смолой. Возможно изготовление под заказ в любых размерах.</description>
+				<description>Эксклюзивный столик от наших мастеров! Оригинальная и неповторимая модель журнального столика из Американского ореха в сочетании с эпоксидной смолой темного оттенка. Изделие прошло несколько стадий шлифовки, поверхность столешницы идеально гладкое и очень приятное на ощупь. Финишное покрытие выполнено полиуретановым лаком. Основание изготовлено так же из массива Американского ореха. Высота журнального столика составляет 360 мм.</description>
 			</offer>
-			<offer id="1011" available="true">
-				<name>Амбарная дверь из карагача</name>
-				<categoryId>14</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/395/244_244_0/avv5ow1zge81o3f2gkgwcgad3ufoln5s.png</picture>
-				<price>По зап</price>
+			<offer id="0111" available="true">
+				<name>Эксклюзивный столик в янтарной заливке</name>
+				<categoryId>3</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/114/244_244_0/hjsz3fboj31n7jxxfce0216n31f5suiu.png</picture>
+				<price>68000</price>
 				<currencyId>RUB</currencyId>
-				<description>Дверь из клеенного массива карагача.</description>
+				<description>Неповторимый журнальный столик из необычного слэба карагача в полной заливке янтарной эпоксидной смолой. Настоящий эксклюзив!Толщина столешницы 36 мм.</description>
 			</offer>
-			<offer id="1010" available="true">
-				<name>Дверь "Река"</name>
-				<categoryId>14</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/bc1/244_244_0/qe1lts1kyhrr2cpgib49e32hwalrp95v.png</picture>
-				<price>По зап</price>
+			<offer id="0189" available="true">
+				<name>Журнальный стол «Forest river»</name>
+				<categoryId>3</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/05f/244_244_0/1mq1k29dfreu7jconmfnnwvzvx50iikd.png</picture>
+				<price>47000</price>
 				<currencyId>RUB</currencyId>
-				<description>Изготавливаем амбарные двери по индивидуальным размерам под заказ.</description>
+				<description>При изготовлении данной модели наши мастера использовали заготовки горного вяза, которые отлично сочетаются с эпоксидной смолой нежно голубого оттенка. Заготовки обладают очень красивым, ярко-выраженным древесным рисунком, который будет притягивать ваш взгляд снова и снова!!! Поверхность изделия идеально отшлифована и очень приятная на ощупь, каждое тактильное прикосновение будет приносить ощущение сближения с природой и будет дарить вам тепло дерева изо дня в день. Основание выполнено из металла и окрашено в цветовую гамму столешницы. Возможно изготовление под заказ по индивидуальным пожеланиям.</description>
 			</offer>
-			<offer id="0729" available="true">
-				<name>Зеркало "Классика"</name>
-				<categoryId>2</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/8b4/244_244_0/fgk7jpkifx8e09wn2fa4rajrk1t11i6l.png</picture>
-				<price>14 500 </price>
+			<offer id="0192" available="true">
+				<name>Журнальный стол «Berry»</name>
+				<categoryId>3</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/af6/244_244_0/1g4xw0cmzeevyxsjl05gfrtaj4td5evc.png</picture>
+				<price>30000</price>
 				<currencyId>RUB</currencyId>
-				<description>Стильное зеркало в раме из карагача под любой интерьер.</description>
+				<description>Данная модель журнального столика выполнена из заготовок массива черешни с заливкой темной эпоксидной смолой. Наши мастера сохранили природные края, чтобы вы оценили гармоничные изгибы природных линий, которые прекрасно сочетаются с приятным древесным рисунком. Поверхность столешницы идеально отшлифована и отполирована, по тактильным ощущениям очень приятная на ощупь. Подстолье изготовлено из металла. Высота изделия составляет 45 см.</description>
 			</offer>
-			<offer id="0902" available="true">
-				<name>Столешница под раковину</name>
-				<categoryId>2</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/406/244_244_0/ltnxopabtlgv9ah1pzqqnp34dop663be.png</picture>
-				<price>40 000 </price>
+			<offer id="0169" available="true">
+				<name>Журнальный стол «Fantasy»</name>
+				<categoryId>3</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/5dd/244_244_0/tmpms4okla2fl520pfijatrani8nas78.png</picture>
+				<price>53000</price>
 				<currencyId>RUB</currencyId>
-				<description>Столешница в ванную из карагача с заливкой эпоксидной смолой янтарного цвета. Толщина столешницы 60 мм.</description>
+				<description>При изготовлении столика использовалась эксклюзивная заготовка горного вяза/ карагача в сочетании с черным МДФ, которые придают столешнице оригинальность и неповторимость исполнения. Толщина столешницы составляет 35 мм. Авторское основание для столешницы выполнено из металла и покрыто автоэмалью двух цветов. Изделие гармонично украсит собой практически любой интерьер и будет приковывать взгляды ваших гостей снова и снова.</description>
 			</offer>
-			<offer id="0901" available="true">
-				<name>Столешница из карагача</name>
-				<categoryId>2</categoryId>
-				<picture>https://drevodesign.ru/upload/resize_cache/iblock/69a/244_244_0/zc11p145uejtb918d4hqup7dsd4wt15l.png</picture>
-				<price>22 000 </price>
+			<offer id="0127" available="true">
+				<name>Журнальный стол «Classic»</name>
+				<categoryId>3</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/702/244_244_0/lrbbr5gnjshxqwi1xxv2c1fl66ioh3bz.png</picture>
+				<price>25000</price>
 				<currencyId>RUB</currencyId>
-				<description>Цельная столешница из слэба карагача в ванную комнату под раковину или в качестве полочки. Толщина изделия 65 мм.</description>
+				<description>Вашему вниманию представлен журнальный стол из массива карагача в классическом стиле. Диаметр столешницы составляет 70 см, высота изделия 45 см. Все природные неровности, трещинки и сучки наши мастера пролили эпоксидной смолой молочного оттенка. Тонировка древесины выполнена в благородном древесном цвете. Возможно изготовление под заказ по всем индивидуальным пожеланиям.</description>
+			</offer>
+			<offer id="0193" available="true">
+				<name>Столик из тополя в заливке смолой</name>
+				<categoryId>3</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/3ec/244_244_0/227t331n8jp47hcqq9hmjrtuaemhn9df.png</picture>
+				<price>55000</price>
+				<currencyId>RUB</currencyId>
+				<description>За основу данной модели был взят спил капового тополя, который был полностью залит в эпоксидную смолу голубого оттенка. Изделие отлично дополнит собой любое пространство и украсит вашу зону отдыха. Поверхность столешницы прошла несколько стадий ручной полировки, что придало необычайный шарм. Основание изготовлено из нетипового полуовального профиля и окрашено в золотистый цвет.</description>
+			</offer>
+			<offer id="0191" available="true">
+				<name>Журнальный стол «Enjoy the art»</name>
+				<categoryId>3</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/a7a/244_244_0/a0g15rr6icvt1zk5vssqswf0sw2evdbg.png</picture>
+				<price>от56000</price>
+				<currencyId>RUB</currencyId>
+				<description>Закончена работа над еще одним эксклюзивным изделием, журнальный стол "Enjoy the art". За основу данной модели взят оригинальный спил клена с очень красивым фрагментом природной пустоты, расположенной по центру. Заливка эпоксидной смолы выполнена в темной цветовой гамме, которая отлично сочетается с данной заготовкой, природный рисунок бурлит своей фактурой и завораживает с первого взгляда. Поверхность столешницы прошла несколько стадий ручной шлифовки и полировки, чтобы каждое прикосновение приносило вам только приятные эмоции. Толщина столешницы составляет 37 мм. Высота изделия 455 мм. На складе имеется большой выбор подобных заготовок, возможно изготовление в различной цветовой гамме.</description>
+			</offer>
+			<offer id=" 0171" available="true">
+				<name>Стол «Река» трансформер</name>
+				<categoryId>3</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/0c4/244_244_0/1vimxgonti313xj2g50a5u3assoti7h6.png</picture>
+				<price>60000</price>
+				<currencyId>RUB</currencyId>
+				<description>Столешница изготовлена из эксклюзивных заготовок массива горного вяза/карагача с заливкой эпоксидной смолы светло-черного оттенка. Толщина столешницы составляет порядка 20 мм. Идеально отшлифованная поверхность столешницы будет манить к себе снова и снова, вы никогда не устанете от эмоций, которые будете получать при тактильных прикосновениях. Финишное покрытие выполнено экологически чистыми немецкими маслами. Подстолье металлическое, с нанесением порошкового покрытия. Высота изделия может варьироваться от 50 до 70 см. Возможно изготовление под заказ по индивидуальным пожеланиям.</description>
+			</offer>
+			<offer id="0196" available="true">
+				<name>Журнальный стол «Decor»</name>
+				<categoryId>3</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/fc3/244_244_0/hm1twal2m46146v9siz6ceh099vfq6nn.png</picture>
+				<price>35000</price>
+				<currencyId>RUB</currencyId>
+				<description>При изготовлении данного изделия мы взяли за основу гармоничный слэб горного вяза (карагач), все трещинки и природные неровности заполнили эпоксидной смолой и получили прекрасную модель журнального столика. Он отлично впишется в различный интерьер и подарит вам тепло живой древесины. На поверхности столешницы бурлит своими очертаниями неповторимый древесный рисунок, все идеально отшлифовано и отполировано, чтобы радовать вас как при тактильных прикосновениях, так и от одного взгляда. Подстолье выполнено из металла и окрашено в черный цвет. Возможно изготовление под заказ.</description>
+			</offer>
+			<offer id="0186" available="true">
+				<name>Журнальный столик из массива ореха</name>
+				<categoryId>3</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/ae4/244_244_0/j5bja6vrnhqm7l7if3id2m833mthg5ff.png</picture>
+				<price>36000</price>
+				<currencyId>RUB</currencyId>
+				<description>Аккуратный журнальный столик из ореха залитого эпоксидной смолой, финишное покрытие столешницы выполнено лаком, толщина столешницы 20 мм. Основание изготовлено из металла и окрашено черной эмалью. Возможно изготовление на заказ по индивидуальным размерам.</description>
 			</offer>
 			<offer id="0613" available="true">
 				<name>Тумба из массива и мдф</name>
-				<categoryId>8</categoryId>
+				<categoryId>6</categoryId>
 				<picture>https://drevodesign.ru/upload/resize_cache/iblock/055/244_244_0/mlx35iqm775kgfl4px17c7dvb402dbb2.png</picture>
-				<price>75 000 </price>
+				<price>75000</price>
 				<currencyId>RUB</currencyId>
 				<description>Дизайнерская тумба в сочетании массива карагача и ламинированного мдф, отлично подойдет для гостиной комнаты, станет красивым и удобным дополнением к Вашему интерьеру. Тумба имеет возможность изменение по длине за счет подвижной части с ящиками. Возможно изготовление на заказ по индивидуальным размерам.</description>
+			</offer>
+			<offer id="0214" available="true">
+				<name>Стол "Река" с темно-синей смолой</name>
+				<categoryId>5</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/c66/244_244_0/a05uslrql0axq6qodkj6quc38jvatari.png</picture>
+				<price>57000</price>
+				<currencyId>RUB</currencyId>
+				<description>Лаконичный и оригинальный! Обеденный стол из серии " Река" из карагача. Толщина столешницы 30 мм. Высота стола регулируется от 74 до 75 см.</description>
+			</offer>
+			<offer id="0266" available="true">
+				<name>Обеденный стол из массива карагача</name>
+				<categoryId>5</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/967/244_244_0/1srxu2hl8j0nbd8o8kryaxa9h9jkwjeq.png</picture>
+				<price>102000</price>
+				<currencyId>RUB</currencyId>
+				<description>Очередной дизайнерский стол из массива карагача на типовом основании из металла в стиле Loft от нашей команды мастеров. На поверхности столешницы бурлит древесный рисунок, отлично сочетаясь с вставкой из эпоксидной смолы коричневого оттенка. Древесина прошла несколько ступеней ручной обработки и полировки, каждое тактильное прикосновение будет вам дарить только самые положительные эмоции. Толщина столешницы составляет 48 мм. Возможно изготовление под заказ по индивидуальным размерам и предпочтениям.</description>
+			</offer>
+			<offer id="0402" available="true">
+				<name>Столешница для барной стойки</name>
+				<categoryId>5</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/505/244_244_0/4bua9qeztgz9p502d6fzk5iec3atwh6h.png</picture>
+				<price>46000</price>
+				<currencyId>RUB</currencyId>
+				<description>Идеальная столешница из карагача для барной стойки: брутальная, большая толщина дерева, элемент стекла для декора.  Цена указана за столешницу, возможно изготовление любого подстолья под ваш размер. На фото основание представлено для примера.</description>
+			</offer>
+			<offer id="0613" available="true">
+				<name>Тумба из массива и мдф</name>
+				<categoryId>6</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/055/244_244_0/mlx35iqm775kgfl4px17c7dvb402dbb2.png</picture>
+				<price>75000</price>
+				<currencyId>RUB</currencyId>
+				<description>Дизайнерская тумба в сочетании массива карагача и ламинированного мдф, отлично подойдет для гостиной комнаты, станет красивым и удобным дополнением к Вашему интерьеру. Тумба имеет возможность изменение по длине за счет подвижной части с ящиками. Возможно изготовление на заказ по индивидуальным размерам.</description>
+			</offer>
+			<offer id="0623" available="true">
+				<name>Прикроватные тумбы из массива</name>
+				<categoryId>7</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f34/244_244_0/frw783c2s6pnl9ximtwr990sls1gsh3q.png</picture>
+				<price>55000</price>
+				<currencyId>RUB</currencyId>
+				<description>Комплект прикроватных тумб выполнен из массива горного вяза, поверхность изделий имеет роскошный древесный рисунок. Выдвижной ящик оборудован фурнитурой Blum с механизмом Tip-On. Высота корпуса тумбы составляет 150 мм. Основание тумб выполнено из металла и окрашено порошковым покрытием (мелкозернистая фракция). Стоимость одной тумбы 55 000 руб. Возможно изготовление в различных тонировках древесины.</description>
+			</offer>
+			<offer id="0625" available="true">
+				<name>Тумба в сочетании массива и шпонированного МДФ</name>
+				<categoryId>7</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/940/244_244_0/eeaym82zpeutpscdxg4j10ev9q0ir4qj.png</picture>
+				<price>78000</price>
+				<currencyId>RUB</currencyId>
+				<description>Корпус тумбы изготовлен из шпонированного МДФ, фасады и крышка из массива горного вяза. При изготовлении крышки применялся цельный слэб на поверхности которого играет буйный древесный рисунок, так же на поверхности столешницы имеется очень красивый фрагмент, наши мастера пролили его прозрачной смолой, чтобы вы своим глазом могли любоваться красотой природы. Тонировка выполнена экологически чистыми маслами. Возможно изготовление под заказ, по индивидуальным пожеланиям, конфигурация изделия может быть различной.</description>
+			</offer>
+			<offer id="0628" available="true">
+				<name>Винный шкаф из массива Американского Ореха</name>
+				<categoryId>7</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/7b2/244_244_0/ju53awkwa1cxq6em7cls8ghuwo6y4avh.png</picture>
+				<price>220000</price>
+				<currencyId>RUB</currencyId>
+				<description>Еще одна эксклюзивная работа от наших мастеров, винный шкаф из массива Американского ореха (черное дерево), в сочетании с темной эпоксидной смолой. При изготовлении фасадов применялся очень редкий и оригинальный материал. Лицевая сторона изделия выглядит просто потрясающее и притягивает взгляд снова и снова. Все детали изделия прошли несколько стадий ручной шлифовки и полировки. Внутри шкафа вы найдете для себя все необходимое для размещения вашего кухонного сервиза и напитков. Финишное покрытие выполнено полиуретановым лаком для придания дополнительной прочности поверхности изделия. Габарит шкафа: 150 см, длина 90 см, глубина изделия 53 см. Открывание фасадов осуществляется нажатием, механизм push to open. Основание данной модели возможно сделать под заказ по вашим индивидуальным пожеланиям.</description>
+			</offer>
+			<offer id="0834" available="true">
+				<name>Тумба "Тexture"</name>
+				<categoryId>7</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/d9c/244_244_0/4lzuslsin78q3qbnhrqeqdnch6k18a4q.png</picture>
+				<price>63000</price>
+				<currencyId>RUB</currencyId>
+				<description>Закончена работа над еще одним нашим изделием, представляем вашему вниманию ТВ тумбу "Тexture". Корпус изделия изготовлен из шпонированного МДФ, а изюминкой являются фасады. На поверхности МДФ мы вырезали объемный и очень фактурный рисунок, который великолепно смотрится в живую!!! Фасады были профессионально окрашены эмалью высокого качества, а детали корпуса вскрыты экологически чистым маслом. Тумба оснащена высококачественной фурнитурой, открывание нажатием. Возможно изготовление под заказ по индивидуальным пожеланиям.</description>
+			</offer>
+			<offer id="0636" available="true">
+				<name>Тумба "Comfortable"</name>
+				<categoryId>7</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/ebd/244_244_0/ezcvp9bol8nuijrslxs1r3mbg83x5c1f.png</picture>
+				<price>59000</price>
+				<currencyId>RUB</currencyId>
+				<description>Тумба изготовлена из массива карагача в сочетании крашенного мдф и оборудовано выдвижным ящиком, который оснащен фурнитурой марки "Blum". Детали из массива имеют округлые формы, что придает определенного шарма изделию, покрыты экологически чистым маслом немецкого производителя и идеально отшлифованы. Толщина столешницы составляет 40мм.</description>
+			</offer>
+			<offer id="1108" available="true">
+				<name>Столешница из массива карагача</name>
+				<categoryId>14</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/866/244_244_0/xe1nezxs78jzeg8o4w6x1q0i3qdkvd3n.png</picture>
+				<price>57000</price>
+				<currencyId>RUB</currencyId>
+				<description>Столешница выполнена из массива горного вяза в сочетании с эпоксидной смолой янтарного цвета. Толщина столешницы 50 мм.</description>
+			</offer>
+			<offer id="1104" available="true">
+				<name>Столешница из карагача с синей смолой</name>
+				<categoryId>14</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/1c5/244_244_0/nlbqz0slx2bmqnecer4lhlf4piemnhqt.jpg</picture>
+				<price>101000</price>
+				<currencyId>RUB</currencyId>
+				<description>Красивая классическая столешница в стиле "река" из карагача. Толщина столешницы около 40 мм.</description>
+			</offer>
+			<offer id="1105" available="true">
+				<name>Столешница из ивы под большой стол</name>
+				<categoryId>14</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/a20/244_244_0/khenzsljer6jwtf3cib1f6elnhx2oo6w.jpg</picture>
+				<price>168000</price>
+				<currencyId>RUB</currencyId>
+				<description>Яркая и необычная столешница из ивы с большим количеством капов. Неровный натуральный край дерева придает брутальность и эксклюзивность изделию.</description>
+			</offer>
+			<offer id="1114" available="true">
+				<name>Столешница из массива карагача с эпоксидной смолой</name>
+				<categoryId>14</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/e1d/244_244_0/3npuaspykjwuvpwkuttb07kfg0u9em3u.png</picture>
+				<price>65000</price>
+				<currencyId>RUB</currencyId>
+				<description>Столешница выполнена из массива карагача с заливкой эпоксидной смолы голубого оттенка. Теплый цвет древесины привнесет в вашу зону идиллию и комфорт, а тактильные прикосновения подарят очень приятные ощущения. Толщина столешницы составляет 37 мм. Подстолье можно изготовить под заказ в исполнении из массива либо металла, окраска возможна в любой оттенок.</description>
+			</offer>
+			<offer id="1111" available="true">
+				<name>Обеденная столешница "Cherries"</name>
+				<categoryId>14</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/f35/244_244_0/7ybk5tldabian7cyogqitx2cho6swjcg.png</picture>
+				<price>76000</price>
+				<currencyId>RUB</currencyId>
+				<description>Готовая столешница в сочетании эпоксидной смолы и эксклюзивной заготовки массива черешни. Заливка выполнена в темной цветовой гамме, но через смолу вы можете увидеть всю красоту природы. Внутренние "берега" не проходили первоначальную обработку, заливка производилась вместе с корой, что смотрится очень необычно и красиво. Под данную модель подойдут различные модели оснований, за всей подробной информацией обращайтесь к нашим менеджерам.</description>
+			</offer>
+			<offer id="1115" available="true">
+				<name>Эксклюзивная столешница из массива акации</name>
+				<categoryId>14</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/864/244_244_0/2ozljfel8xjzvl8z6tdzbg6wapnaeoo7.png</picture>
+				<price>143000</price>
+				<currencyId>RUB</currencyId>
+				<description>Эксклюзивная столешница из массива акации с эпоксидной смолой темного оттенка. Поверхность столешницы прошла несколько стадий ручной шлифовки и полировки. Финишный слой выполнен водным лаком который подчеркивает натуральный цвет древесины. По подбору основания для данной модели обращайтесь к нашим менеджерам.</description>
+			</offer>
+			<offer id="1117" available="true">
+				<name>Эксклюзивная столешница из массива капового тополя</name>
+				<categoryId>14</categoryId>
+				<picture>https://drevodesign.ru/upload/resize_cache/iblock/79c/244_244_0/qo6i6e49tbeb2xcpxv03iv4v80yqvuf4.jpg</picture>
+				<price>93000</price>
+				<currencyId>RUB</currencyId>
+				<description>Вашему вниманию представлена великолепная столешница из массива капового тополя в сочетании с эпоксидной смолой синего оттенка. Уникальные природные формы изделия привлекают взгляд, будут дарить огромное количество положительных эмоций и чувство сближения с природой. Финишное покрытие сделано тонким слоем эпоксидной смолы. Толщина столешницы составляет 33 мм.</description>
 			</offer>
 		</offers>
 	</shop>

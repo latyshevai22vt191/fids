@@ -119,15 +119,13 @@ def make_xml_drevodesign():
     url_shop = ET.SubElement(shop, 'url')
 
     name_shop.text = 'drevodesign'
-    company_shop.text = 'Древо дизайн'
+    company_shop.text = 'drevodesign.ru'
     url_shop.text = 'https://drevodesign.ru/'
-    data = ET.Element('data')
 
     currencies = ET.SubElement(shop, 'currencies')
     currency = ET.SubElement(currencies, 'currency')
     currency.set('id', 'RUB')
     currency.set('rate', '1')
-    categories = ET.SubElement(shop, 'categories')
     set_cat = set()
     dates = []
     with open('fidstore/drevodesign/drevodesign.csv', 'r', encoding='utf-8', newline='') as f:
@@ -154,7 +152,7 @@ def make_xml_drevodesign():
             "Фото": data[2].replace('\r', '').replace('\n', ''),
             "Ссылка": data[4].replace('\r', '').replace('\n', ''),
             "Название": data[1].replace('\r', '').replace('\n', ''),
-            "Цена": data[5].replace('\r', '').replace('\n', ''),
+            "Цена": data[5].replace('\r', '').replace('\n', '').strip().replace(' ','').replace('От',''),
             "Артикул": data[3].replace('\r', '').replace('\n', ''),
             "В наличии": data[7].replace('\r', '').replace('\n', ''),
             "Описание": data[6].replace('\r', '').replace('\n', ''),
@@ -169,8 +167,9 @@ def make_xml_drevodesign():
         categoryId.text = product['Категория']
         picture = ET.SubElement(offer, 'picture')
         picture.text = product['Фото']
-        price = ET.SubElement(offer, 'price')
-        price.text = product['Цена'][:-4]
+        if product['Цена'] != 'Позапросу':
+            price = ET.SubElement(offer, 'price')
+            price.text = product['Цена'][:-4]
         currencyId = ET.SubElement(offer, 'currencyId')
         currencyId.text = 'RUB'
         # url = ET.SubElement(offer, 'url')
@@ -186,5 +185,5 @@ def make_xml_drevodesign():
     tree.write("fidstore/drevodesign/drevodesign.xml", encoding='utf-8', xml_declaration=True)
 
 def start_parse_drevodesign():
-    get_data()
+    # get_data()
     make_xml_drevodesign()

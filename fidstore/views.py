@@ -18,4 +18,4 @@ def parse_drevodesign(request):
 
 @api_view(['GET', ])
 def get_drevodesign_list(request):
-    return HttpResponse(open("fidstore/drevodesign/drevodesign.xml",encoding='utf-8').read(), content_type='text/xml')
+    return HttpResponse(open("fidstore/drevodesign/drevodesign.xml",encoding='utf-8').read(), content_type='application/xml')
