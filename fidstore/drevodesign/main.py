@@ -172,8 +172,8 @@ def make_xml_drevodesign():
             price.text = product['Цена'][:-4]
         currencyId = ET.SubElement(offer, 'currencyId')
         currencyId.text = 'RUB'
-        # url = ET.SubElement(offer, 'url')
-        # url.text = '<![CDATA[ '+product['Ссылка']+' ]]>'
+        url = ET.SubElement(offer, 'url')
+        url.text = '<![CDATA[ '+product['Ссылка']+' ]]>'
         description = ET.SubElement(offer, 'description')
         description.text = product['Описание']
     xml_string = ET.tostring(yml_catalog).decode()
